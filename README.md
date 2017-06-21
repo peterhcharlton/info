@@ -32,3 +32,6 @@ I have found the following journals to be highly relevant in my research into ph
 * [Medical Engineering & Physics](https://www.journals.elsevier.com/medical-engineering-and-physics)
 * [Biomedical Engineering Online](https://biomedical-engineering-online.biomedcentral.com/)
 * [Journal of Medical Engineering and Technology](http://www.tandfonline.com/loi/ijmt20)
+* [Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control/)
+* [Journal of Clinical Monitoring and Computing](http://www.springer.com/medicine/anesthesiology/journal/10877)
+* [Medical & Biological Engineering and Computing](https://link.springer.com/journal/11517)
