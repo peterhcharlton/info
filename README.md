@@ -21,3 +21,14 @@ The following search engines have been useful for finding publications:
 * [Scopus](https://www.scopus.com/): A database of peer-reviewed research literature
 * [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/): A database of medical research, including much biomedical engineering research
 
+## Relevant Journals
+
+I have found the following journals to be highly relevant in my research into physiological measurement techniques, and in the broader field of biomedical engineering:
+
+* [Physiological Measurement](http://iopscience.iop.org/journal/0967-3334/)
+* [IEEE Transactions on Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10/)
+* [Annals of Biomedical Engineering](http://www.springer.com/biomed/journal/10439)
+* [Journal of Biomedical and Health Informatics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
+* [Medical Engineering & Physics](https://www.journals.elsevier.com/medical-engineering-and-physics)
+* [Biomedical Engineering Online](https://biomedical-engineering-online.biomedcentral.com/)
+* [Journal of Medical Engineering and Technology](http://www.tandfonline.com/loi/ijmt20)
