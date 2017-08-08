@@ -45,3 +45,9 @@ Here are some of the publicly available algorithms which I have found helpful, a
 * [ECG beat detector](http://www.mit.edu/~gari/CODE/ECGtools/ecgBag/rpeakdetect.m): A beat detector for use with the ECG, written by Gari Clifford. Based on the algorithm described by Pan, Hamilton and Tompkins (refs: [1](http://doi.org/10.1109/TBME.1985.325532) and [2](http://doi.org/10.1109/TBME.1986.325695)). Available under the GNU GPL.
 * [Arterial blood pressure beat detector](https://www.physionet.org/physiotools/cardiac-output/code/2analyze/wabp.m): A beat detector for use with the ABP signal, written by James Sun. Based on the code and algorithm developed by Wei Zong (ref: [1](http://doi.org/10.1109/CIC.2003.1291140) ).
 
+## Data Repositories
+
+I have used these data repositories to make resources publicly available:
+
+* [Zenodo](https://zenodo.org/): Zenodo accepts many types of resources (such as datasets, images, posters, presentations, software ...).
+* [King's Research Data Management System](https://www.kcl.ac.uk/library/researchsupport/research-data-management/Preserve-and-Share/Deposit-your-data-with-Kings3.aspx): A repository available to members of King's College London.
