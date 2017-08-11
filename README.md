@@ -11,7 +11,7 @@ I have found the following software packages particularly helpful during my rese
 * **Automated Backups**: [Google Drive](https://www.google.com/drive/) and [Dropbox](https://www.dropbox.com/) both allow you to backup your files to the cloud (automatically backing up any new or edited files when you're connected to the internet), and synchronise them between computers.
 * **Code Respositories**: [GitHub](https://github.com/) allows you to backup your code online, keep a history of changes, and synchronise it between computers. It also provides a platform for creating a free website.
 
-## Search Engines for Publications
+## Search Engines for Finding Publications
 
 The following search engines have been useful for finding publications:
 
@@ -45,9 +45,22 @@ Here are some of the publicly available algorithms which I have found helpful, a
 * [ECG beat detector](http://www.mit.edu/~gari/CODE/ECGtools/ecgBag/rpeakdetect.m): A beat detector for use with the ECG, written by Gari Clifford. Based on the algorithm described by Pan, Hamilton and Tompkins (refs: [1](http://doi.org/10.1109/TBME.1985.325532) and [2](http://doi.org/10.1109/TBME.1986.325695)). Available under the GNU GPL.
 * [Arterial blood pressure beat detector](https://www.physionet.org/physiotools/cardiac-output/code/2analyze/wabp.m): A beat detector for use with the ABP signal, written by James Sun. Based on the code and algorithm developed by Wei Zong (ref: [1](http://doi.org/10.1109/CIC.2003.1291140) ).
 
+### Physiological Measurement
+
+* [Cardiac Output Estimation](https://www.physionet.org/physiotools/cardiac-output/): Scripts to estimate cardiac output from the ABP signal, written by James Sun.
+
+* [Pulse Transit Time Estimation](http://uk.mathworks.com/matlabcentral/fileexchange/37746-ttalgorithm): Scripts to estimate pulse transit time using simultaneous pulsatile waveforms, written by Nick Gaddum.
+
+
 ## Data Repositories
 
 I have used these data repositories to make resources publicly available:
 
 * [Zenodo](https://zenodo.org/): Zenodo accepts many types of resources (such as datasets, images, posters, presentations, software ...).
 * [King's Research Data Management System](https://www.kcl.ac.uk/library/researchsupport/research-data-management/Preserve-and-Share/Deposit-your-data-with-Kings3.aspx): A repository available to members of King's College London.
+
+## Matlab &reg; Scripts
+
+I have found the following Matlab &reg; scripts very helpful:
+
+* [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export-fig): Useful for saving Matlab &reg; figures in formats for publication. For instance, often publications require figures in *.eps* format with fonts embedded, which this script can provide.
