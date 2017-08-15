@@ -48,7 +48,6 @@ Here are some of the publicly available algorithms which I have found helpful, a
 ### Physiological Parameter Estimation
 
 * [Cardiac Output Estimation](https://www.physionet.org/physiotools/cardiac-output/): Scripts to estimate cardiac output from the ABP signal, written by James Sun.
-
 * [Pulse Transit Time Estimation](http://uk.mathworks.com/matlabcentral/fileexchange/37746-ttalgorithm): Scripts to estimate pulse transit time using simultaneous pulsatile waveforms, written by Nick Gaddum.
 
 
@@ -68,3 +67,4 @@ I have found the following Matlab &reg; scripts very helpful:
 ## Textbooks
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/)
+* [Advanced Methods and Tools for ECG Data Analysis](http://www.robots.ox.ac.uk/~gari/ecgbook.html)
