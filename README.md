@@ -68,6 +68,7 @@ I have found the following Matlab &reg; scripts very helpful:
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/)
 * [Advanced Methods and Tools for ECG Data Analysis](http://www.robots.ox.ac.uk/~gari/ecgbook.html)
+* [Snapshots of Haemodynamics](https://doi.org/10.1007/978-1-4419-6363-5): A concise overview of several aspects of haemodynamics
 * [Statistics Notes in the BMJ](https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm): Although not strictly a textbook, this series of notes provides a very helpful introduction to several statistical topics frequently encountered in medical research, written by Bland, Altman et al.
 
 ## Datasets
