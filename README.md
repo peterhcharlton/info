@@ -6,7 +6,7 @@ This page provides links to resources which I have used in teaching.
 
 I have found the following software packages particularly helpful during my research:
 
-* **Reference Manager**: [Mendeley](https://www.mendeley.com/) is a free program which keeps your articles in one place. It allows you to search through the articles, and also create reference lists quickly.
+* **Reference Manager**: [Mendeley](https://www.mendeley.com/) is a free program which keeps your articles in one place. It allows you to search through the articles, and also create reference lists quickly which can be used in MS Word and Latex documents.
 * **Latex Editor**: [TeXstudio](http://www.texstudio.org/) is a free program for editing latex documents. It requires a Latex typesetting system to function, such as [MikTex](https://miktex.org/). I have also found [TeXcount](https://www.ctan.org/tex-archive/support/texcount) useful for counting the number of words in Latex files (such as theses).
 * **Automated Backups**: [Google Drive](https://www.google.com/drive/) and [Dropbox](https://www.dropbox.com/) both allow you to backup your files to the cloud (automatically backing up any new or edited files when you're connected to the internet), and synchronise them between computers.
 * **Code Respositories**: [GitHub](https://github.com/) allows you to backup your code online, keep a history of changes, and synchronise it between computers. It also provides a platform for creating a free website.
@@ -40,15 +40,21 @@ I have found the following journals to be highly relevant in my research into ph
 
 Here are some of the publicly available algorithms which I have found helpful, and which I would recommend. They are written for Matlab &reg; .
 
-### Beat detectors
+### Beat Detectors
 
 * [ECG beat detector](http://www.mit.edu/~gari/CODE/ECGtools/ecgBag/rpeakdetect.m): A beat detector for use with the ECG, written by Gari Clifford. Based on the algorithm described by Pan, Hamilton and Tompkins (refs: [1](http://doi.org/10.1109/TBME.1985.325532) and [2](http://doi.org/10.1109/TBME.1986.325695)). Available under the GNU GPL.
 * [Arterial blood pressure beat detector](https://www.physionet.org/physiotools/cardiac-output/code/2analyze/wabp.m): A beat detector for use with the ABP signal, written by James Sun. Based on the code and algorithm developed by Wei Zong (ref: [1](http://doi.org/10.1109/CIC.2003.1291140) ).
+
+### Signal Quality Assessment
+
+* [Signal Quality Indices for ECG and PPG](http://peterhcharlton.github.io/RRest/algorithms.html): Signal quality indices for use with the ECG and PPG signals (ref: [1](https://doi.org/10.1109/JBHI.2014.2338351) ). They are contained within the *RRest* algorithms.
+* [Signal Quality Index for ABP](https://www.physionet.org/physiotools/cardiac-output/code/2analyze/jSQI.m): written by James Sun.
 
 ### Physiological Parameter Estimation
 
 * [Cardiac Output Estimation](https://www.physionet.org/physiotools/cardiac-output/): Scripts to estimate cardiac output from the ABP signal, written by James Sun.
 * [Pulse Transit Time Estimation](http://uk.mathworks.com/matlabcentral/fileexchange/37746-ttalgorithm): Scripts to estimate pulse transit time using simultaneous pulsatile waveforms, written by Nick Gaddum.
+* [Respiratory Rate Estimation](http://peterhcharlton.github.io/RRest/algorithms.html): Code for assessing the performance of respiratory rate algorithms applied to the ECG and PPG, written by Peter H Charlton.
 
 
 ## Data Repositories
@@ -74,3 +80,4 @@ I have found the following Matlab &reg; scripts very helpful:
 ## Datasets
 
 * [PhysioNet](https://physionet.org/): An invaluable collection of physiological datasets, many of which contain physiological signals such as the ECG.
+* [CapnoBase](http://www.capnobase.org/database/pulse-oximeter-ieee-tbme-benchmark/): Recordings of ECG, PPG and capnography signals from patients during elective surgery and routine anaesthesia. Contains annotations of breaths. (ref: [1](10.1109/TBME.2013.2246160) ).
