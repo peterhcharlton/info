@@ -15,7 +15,7 @@ I have found the following software packages particularly helpful during my rese
 
 The following search engines have been useful for finding publications:
 
-* [Google Scholar](https://scholar.google.co.uk/)
+* [Google Scholar](https://scholar.google.co.uk/): Provides both a simple and an 'Advanced Search'.
 * [IEEE Xplore <sup>TM</sup>](http://ieeexplore.ieee.org/): A database of scientific and technical content published by the IEEE (Institute of Electrical and Electronics Engineers) and partners.
 * [ScienceDirect](http://www.sciencedirect.com/): A database of scientific, technical and medical research
 * [Scopus](https://www.scopus.com/): A database of peer-reviewed research literature
@@ -35,6 +35,7 @@ I have found the following journals to be highly relevant in my research into ph
 * [Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control/)
 * [Journal of Clinical Monitoring and Computing](http://www.springer.com/medicine/anesthesiology/journal/10877)
 * [Medical & Biological Engineering and Computing](https://link.springer.com/journal/11517)
+* [IEEE Reviews in Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4664312/)
 
 ## Algorithms
 
@@ -61,7 +62,7 @@ Here are some of the publicly available algorithms which I have found helpful, a
 
 I have used these data repositories to make resources publicly available:
 
-* [Zenodo](https://zenodo.org/): Zenodo accepts many types of resources (such as datasets, images, posters, presentations, software ...).
+* [Zenodo](https://zenodo.org/): Zenodo accepts many types of resources (such as datasets, images, posters, presentations, software ...). See [this page](https://zenodo.org/search?page=1&size=20&q=%22peter%20h%20charlton%22) for examples of resources I have uploaded.
 * [King's Research Data Management System](https://www.kcl.ac.uk/library/researchsupport/research-data-management/Preserve-and-Share/Deposit-your-data-with-Kings3.aspx): A repository available to members of King's College London.
 
 ## Matlab &reg; Scripts
