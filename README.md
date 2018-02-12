@@ -85,3 +85,8 @@ I have found the following Matlab &reg; scripts very helpful:
 * [PhysioNet](https://physionet.org/): An invaluable collection of physiological datasets, many of which contain physiological signals such as the ECG.
 * [CapnoBase](http://www.capnobase.org/database/pulse-oximeter-ieee-tbme-benchmark/): Recordings of ECG, PPG and capnography signals from patients during elective surgery and routine anaesthesia. Contains annotations of breaths. (ref: [1](http://doi.org/10.1109/TBME.2013.2246160) ).
 * [Vortal](http://peterhcharlton.github.io/RRest/vortal_dataset.html): Recordings of ECG, PPG, impedance pneumography, and reference oral-nasal respiratory signals acquired from young and elderly healthy subjects at rest (ref: [1](http://doi.org/10.1088/0967-3334/37/4/610) [2](http://doi.org/10.1088/1361-6579/aa670e) ).
+
+## Ethics Resources
+
+* [HRA Decision Tool](http://www.hra-decisiontools.org.uk/ethics/) This is helpful for determining whether your intended project requires ethical approval.
+* [Publishing Ethics](https://authorservices.wiley.com/asset/Best-Practice-Guidelines-on-Publishing-Ethics-2ed.pdf) Information on the ethics surrounding publications, with a helpful link to the International Committee of Medical Journal Editors' [recommendations](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for identifying authors.
