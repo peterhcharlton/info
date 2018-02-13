@@ -36,6 +36,7 @@ I have found the following journals to be highly relevant in my research into ph
 * [Journal of Clinical Monitoring and Computing](http://www.springer.com/medicine/anesthesiology/journal/10877)
 * [Medical & Biological Engineering and Computing](https://link.springer.com/journal/11517)
 * [IEEE Reviews in Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4664312/)
+* [Sensors](http://www.mdpi.com/journal/sensors): including upcoming special issues on [Advanced Physiological Sensing](http://www.mdpi.com/journal/sensors/special_issues/Advanced_Physiological_Sensing) and [Sensors for Health Monitoring and Disease Diagnosis](http://www.mdpi.com/journal/sensors/special_issues/SHMDD).
 
 ## Algorithms
 
@@ -93,5 +94,5 @@ I have found the following Matlab &reg; scripts very helpful:
 
 ## Ethics Resources
 
-* [HRA Decision Tool](http://www.hra-decisiontools.org.uk/ethics/) This is helpful for determining whether your intended project requires ethical approval.
-* [Publishing Ethics](https://authorservices.wiley.com/asset/Best-Practice-Guidelines-on-Publishing-Ethics-2ed.pdf) Information on the ethics surrounding publications, with a helpful link to the International Committee of Medical Journal Editors' [recommendations](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for identifying authors.
+* [HRA Decision Tool](http://www.hra-decisiontools.org.uk/ethics/): This is helpful for determining whether your intended project requires ethical approval.
+* [Publishing Ethics](https://authorservices.wiley.com/asset/Best-Practice-Guidelines-on-Publishing-Ethics-2ed.pdf): Information on the ethics surrounding publications, with a helpful link to the International Committee of Medical Journal Editors' [recommendations](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for identifying authors.
