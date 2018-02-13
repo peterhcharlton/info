@@ -79,6 +79,11 @@ I have found the following Matlab &reg; scripts very helpful:
 * [Biomedical Instrumentation Lecture Notes](https://www.robots.ox.ac.uk/~neil/teaching/lectures/med_elec/): A helpful course introducing several types of physiological measurement (ECG, EEG, respiration, pulse oximetry and blood pressure).
 * [Statistics Notes in the BMJ](https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm): Although not strictly a textbook, this series of notes provides a very helpful introduction to several statistical topics frequently encountered in medical research, written by Bland, Altman et al.
 
+## Lecture Courses and Presentations
+
+* [Biomedical Signal and Image Processing](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/index.htm) Available from MIT OpenCourseWare, including lecture slides and lab practical resources.
+* [Teaching Medical Physics](http://www.iop.org/education/teacher/resources/teaching-medical-physics/page_54690.html) A set of resources provided by the Institute of Physics covering some commonly used physiological measurement and imaging techniques.
+
 ## Datasets
 
 * [Virtual Database of Pulse Waves](http://haemod.uk/virtual-database): Pulse waves simulated at several arterial sites under a range of cardiovascular conditions (refs: [1](http://doi.org/10.1152/ajpheart.00175.2015) and [2](https://doi.org/10.1016/j.jbiomech.2016.11.001)). Simulated using the Nektar1D model of pulse wave propagation (ref: [3](https://www.researchgate.net/profile/Jordi_Alastruey/publication/256009078_Arterial_pulse_wave_haemodynamics/links/00b7d52164d5dd7b3c000000/Arterial-pulse-wave-haemodynamics.pdf) ).
