@@ -25,7 +25,7 @@ The following search engines have been useful for finding publications:
 
 I have found the following journals to be highly relevant in my research into physiological measurement techniques, and in the broader field of biomedical engineering:
 
-* [Physiological Measurement](http://iopscience.iop.org/journal/0967-3334/)
+* [Physiological Measurement](http://iopscience.iop.org/journal/0967-3334/): including several [Focus Issues](http://iopscience.iop.org/journal/0967-3334/page/Focus%20issues).
 * [IEEE Transactions on Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10/)
 * [Annals of Biomedical Engineering](http://www.springer.com/biomed/journal/10439)
 * [Journal of Biomedical and Health Informatics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
@@ -82,8 +82,8 @@ I have found the following Matlab &reg; scripts very helpful:
 
 ## Lecture Courses and Presentations
 
-* [Biomedical Signal and Image Processing](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/index.htm) Available from MIT OpenCourseWare, including lecture slides and lab practical resources.
-* [Teaching Medical Physics](http://www.iop.org/education/teacher/resources/teaching-medical-physics/page_54690.html) A set of resources provided by the Institute of Physics covering some commonly used physiological measurement and imaging techniques.
+* [Biomedical Signal and Image Processing](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/index.htm): Available from MIT OpenCourseWare, including lecture slides and lab practical resources.
+* [Teaching Medical Physics](http://www.iop.org/education/teacher/resources/teaching-medical-physics/page_54690.html): A set of resources provided by the Institute of Physics covering some commonly used physiological measurement and imaging techniques.
 
 ## Datasets
 
