@@ -38,6 +38,8 @@ I have found the following journals to be highly relevant in my research into ph
 * [IEEE Reviews in Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4664312/)
 * [Sensors](http://www.mdpi.com/journal/sensors): including upcoming special issues on [Advanced Physiological Sensing](http://www.mdpi.com/journal/sensors/special_issues/Advanced_Physiological_Sensing) and [Sensors for Health Monitoring and Disease Diagnosis](http://www.mdpi.com/journal/sensors/special_issues/SHMDD).
 
+In addition, [this webinar](https://www.brighttalk.com/webcast/8013/301799/an-introduction-to-best-practices-for-refereeing-a-journal-manuscript) provides a useful "introduction to best practices for refereeing a journal manuscript", including a referee report template.
+
 ## Algorithms
 
 Here are some of the publicly available algorithms which I have found helpful, and which I would recommend. They are written for Matlab &reg; .
