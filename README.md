@@ -99,7 +99,7 @@ I have found the following Matlab &reg; scripts very helpful:
 ## Ethics Resources
 
 * [HRA Decision Tool](http://www.hra-decisiontools.org.uk/ethics/): This is helpful for determining whether your intended project requires ethical approval.
-* [Publishing Ethics](https://authorservices.wiley.com/asset/Best-Practice-Guidelines-on-Publishing-Ethics-2ed.pdf): Information on the ethics surrounding publications, with a helpful link to the International Committee of Medical Journal Editors' [recommendations](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for identifying authors.
+* [Publishing Ethics](https://authorservices.wiley.com/asset/Best-Practice-Guidelines-on-Publishing-Ethics-2ed.pdf): Information on the ethics surrounding publications, with a helpful link to the International Committee of Medical Journal Editors' [recommendations](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html) for identifying authors. The IEEE also provide a helpful [definition of authorship](http://ieeeauthorcenter.ieee.org/publish-with-ieee/publishing-ethics/definition-of-authorship/).
 
 ## Careers Resources
 
