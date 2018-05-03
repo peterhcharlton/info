@@ -83,6 +83,7 @@ I have found the following Matlab &reg; scripts very helpful:
 * [Snapshots of Haemodynamics](https://doi.org/10.1007/978-1-4419-6363-5): A concise overview of several aspects of haemodynamics
 * [Biomedical Instrumentation Lecture Notes](https://www.robots.ox.ac.uk/~neil/teaching/lectures/med_elec/): A helpful course introducing several types of physiological measurement (ECG, EEG, respiration, pulse oximetry and blood pressure).
 * [Statistics Notes in the BMJ](https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm): Although not strictly a textbook, this series of notes provides a very helpful introduction to several statistical topics frequently encountered in medical research, written by Bland, Altman et al.
+* [An Introduction to Cardiovascular Physiology](https://www.sciencedirect.com/science/book/9780750610285)
 
 ## Lecture Courses and Presentations
 
@@ -105,3 +106,8 @@ I have found the following Matlab &reg; scripts very helpful:
 ## Careers Resources
 
 * [Interview Tips](http://www.jobs.ac.uk/careers-advice/interview-tips/): Guidance from *jobs.ac.uk* on preparing for job interviews, including their [top 5 academic interview questions and answers](http://www.jobs.ac.uk/careers-advice/interview-tips/1276/top-5-academic-interview-questions-and-answers).
+* [A PhD is not enough](https://books.google.co.uk/books?id=ITOb1M1JXkUC): "Helpful tips on survival in `[`academic`]` science".
+
+## Public Engagement Resouces
+
+* [UK Research and Innovation Guides](https://www.ukri.org/public-engagement/research-council-partners-and-public-engagement-with-research/guides-policies-research-and-publications/): A collection of guides on public engagment, including one on the [benefits](https://www.ukri.org/files/legacy/scisoc/rcukbenefitsofpe-pdf/) of public engagement for researchers.
