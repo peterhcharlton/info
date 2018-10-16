@@ -26,7 +26,7 @@ The following search engines have been useful for finding publications:
 I have found the following journals to be highly relevant in my research into physiological measurement techniques, and in the broader field of biomedical engineering:
 
 * [Physiological Measurement](http://iopscience.iop.org/journal/0967-3334/): including several [Focus Issues](http://iopscience.iop.org/journal/0967-3334/page/Focus%20issues).
-* [IEEE Transactions on Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10/)
+* [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 * [Annals of Biomedical Engineering](http://www.springer.com/biomed/journal/10439)
 * [Journal of Biomedical and Health Informatics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
 * [Medical Engineering & Physics](https://www.journals.elsevier.com/medical-engineering-and-physics)
@@ -83,6 +83,7 @@ I have found the following Matlab &reg; scripts very helpful:
 * [Advanced Methods and Tools for ECG Data Analysis](http://www.robots.ox.ac.uk/~gari/ecgbook.html)
 * [Snapshots of Haemodynamics](https://doi.org/10.1007/978-1-4419-6363-5): A concise overview of several aspects of haemodynamics
 * [Biomedical Instrumentation Lecture Notes](https://www.robots.ox.ac.uk/~neil/teaching/lectures/med_elec/): A helpful course introducing several types of physiological measurement (ECG, EEG, respiration, pulse oximetry and blood pressure).
+* [An Introduction to Medical Statistics](https://www-users.york.ac.uk/~mb55/intro/introcon.htm): A comprehensive textbook on statistics for use in clinical studies.
 * [Statistics Notes in the BMJ](https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm): Although not strictly a textbook, this series of notes provides a very helpful introduction to several statistical topics frequently encountered in medical research, written by Bland, Altman et al.
 * [An Introduction to Cardiovascular Physiology](https://www.sciencedirect.com/science/book/9780750610285)
 
