@@ -10,6 +10,7 @@ I have found the following software packages particularly helpful during my rese
 * **Latex Editor**: [TeXShop](https://en.wikipedia.org/wiki/TeXShop) and [TeXstudio](http://www.texstudio.org/) are free programs for editing latex documents. TeXShop is designed for MacOS, and TeXstudio is useful for other operating systems. TeXstudio requires a Latex typesetting system to function, such as [MikTex](https://miktex.org/). I have also found [TeXcount](https://www.ctan.org/tex-archive/support/texcount) useful for counting the number of words in Latex files (such as theses).
 * **Automated Backups**: [Google Drive](https://www.google.com/drive/) and [Dropbox](https://www.dropbox.com/) both allow you to backup your files to the cloud (automatically backing up any new or edited files when you're connected to the internet), and synchronise them between computers.
 * **Code Respositories**: [GitHub](https://github.com/) allows you to backup your code online, keep a history of changes, and synchronise it between computers. It also provides a platform for creating a free website.
+* **Matlab &reg; and Octave**: [Matlab](https://www.mathworks.com/products/matlab.html) is widely used to perform mathematical analyses in university engineering departments. It requires a licence. [Octave](https://www.gnu.org/software/octave/) is freely available software which is largely compatible with Matlab &reg;.
 
 ## Search Engines for Finding Publications
 
@@ -38,7 +39,7 @@ I have found the following journals to be highly relevant in my research into ph
 * [IEEE Reviews in Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4664312/)
 * [MDPI Sensors](http://www.mdpi.com/journal/sensors): see also the upcoming special issue in [MDPI Applied Sciences](https://www.mdpi.com/si/applsci/Signals_Care) on Signals in Health Care.
 
-In addition, [this webinar](https://www.brighttalk.com/webcast/8013/301799/an-introduction-to-best-practices-for-refereeing-a-journal-manuscript) provides a useful "introduction to best practices for refereeing a journal manuscript", including a referee report template. [This webpage](http://www.drpaulwong.com/how-to-write-a-good-manuscript-review/) gives top tips on writing a good review.
+In addition, [this webinar](https://www.brighttalk.com/webcast/8013/301799/an-introduction-to-best-practices-for-refereeing-a-journal-manuscript) provides a useful "introduction to best practices for refereeing a journal manuscript", including a referee report template. [This webpage](http://www.drpaulwong.com/how-to-write-a-good-manuscript-review/) and [this webpage](https://resource-cms.springernature.com/springer-cms/rest/v1/content/13445048/data/v6) give top tips on writing a good review.
 
 ## Relevant Conferences
 
