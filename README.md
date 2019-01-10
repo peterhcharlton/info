@@ -41,6 +41,8 @@ I have found the following journals to be highly relevant in my research into ph
 
 In addition, [this webinar](https://www.brighttalk.com/webcast/8013/301799/an-introduction-to-best-practices-for-refereeing-a-journal-manuscript) provides a useful "introduction to best practices for refereeing a journal manuscript", including a referee report template. [This webpage](http://www.drpaulwong.com/how-to-write-a-good-manuscript-review/) and [this webpage](https://resource-cms.springernature.com/springer-cms/rest/v1/content/13445048/data/v6) give top tips on writing a good review.
 
+A cover letter template is available [here](https://authorservices.taylorandfrancis.com/writing-a-cover-letter/).
+
 ## Relevant Conferences
 
 * [International Electronic Conference on Sensors and Applications](https://ecsa-5.sciforum.net/): an online conference which accepts both poster and 6-page paper submissions, and has open-access proceedings.
