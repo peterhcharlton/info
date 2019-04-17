@@ -106,6 +106,13 @@ I have found the following Matlab &reg; scripts very helpful:
 * [CapnoBase](http://www.capnobase.org/database/pulse-oximeter-ieee-tbme-benchmark/): Recordings of ECG, PPG and capnography signals from patients during elective surgery and routine anaesthesia. Contains annotations of breaths. (ref: [1](http://doi.org/10.1109/TBME.2013.2246160) ).
 * [Vortal](http://peterhcharlton.github.io/RRest/vortal_dataset.html): Recordings of ECG, PPG, impedance pneumography, and reference oral-nasal respiratory signals acquired from young and elderly healthy subjects at rest (ref: [1](http://doi.org/10.1088/0967-3334/37/4/610) [2](http://doi.org/10.1088/1361-6579/aa670e) ).
 
+## Writing Grant Applications
+
+I have benefited from the resources provided by [Parker Derrington Ltd](http://parkerderrington.com/), which are provided in their [blog](https://parkerderrington.com/catalogue/), including:
+* [Preparing to write a grant application](http://parkerderrington.com/are-you-ready-to-start/)
+* [Structuring the application around 10 key sentences](http://parkerderrington.com/get-the-framework-in-place-quickly/)
+* [Writing 10 key sentences](http://parkerderrington.com/key-sentence-skeletons/)
+
 ## Ethics Resources
 
 * [HRA Decision Tool](http://www.hra-decisiontools.org.uk/ethics/): This is helpful for determining whether your intended project requires ethical approval.
