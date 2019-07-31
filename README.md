@@ -37,7 +37,7 @@ I have found the following journals to be highly relevant in my research into ph
 * [Journal of Clinical Monitoring and Computing](http://www.springer.com/medicine/anesthesiology/journal/10877)
 * [Medical & Biological Engineering and Computing](https://link.springer.com/journal/11517)
 * [IEEE Reviews in Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4664312/)
-* [MDPI Sensors](http://www.mdpi.com/journal/sensors): see also the upcoming [Special Issue](https://www.mdpi.com/journal/sensors/special_issues/sens_sleep) on Smart Sensing for Advanced Sleep Analysis.
+* [MDPI Sensors](http://www.mdpi.com/journal/sensors): see also the upcoming Special Issues on on [Smart Sensing for Advanced Sleep Analysis](https://www.mdpi.com/journal/sensors/special_issues/sens_sleep), [Sensing for Health Monitoring](https://www.mdpi.com/journal/sensors/special_issues/WSPUSHM), [Medical Applications of Sensor Systems and Devices](https://www.mdpi.com/journal/sensors/special_issues/MASSD), [Biomedical Signal Processing for Disease Diagnosis](https://www.mdpi.com/journal/sensors/special_issues/BSPDD) and [Biomedical Signal Processing](https://www.mdpi.com/journal/sensors/special_issues/BiomedicalSignalProcessing).
 * [JRSM Cardiovascular Disease](https://journals.sagepub.com/home/cvd): see also the upcoming [Special Issue](https://journals.sagepub.com/page/cvd/call-for-papers/waveform-analysis) on Advances in Waveform Analysis for Understanding Cardiovascular Function.
 * [MDPI Information](https://www.mdpi.com/journal/information): see also the upcoming [Special Issue](https://www.mdpi.com/journal/information/special_issues/Smart_Health_Monitoring) on Ubiquitous Sensing for Smart Health Monitoring.
 
