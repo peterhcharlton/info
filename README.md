@@ -70,6 +70,11 @@ Here are some of the publicly available algorithms which I have found helpful, a
 * [Pulse Transit Time Estimation](http://uk.mathworks.com/matlabcentral/fileexchange/37746-ttalgorithm): Scripts to estimate pulse transit time using simultaneous pulsatile waveforms, written by Nick Gaddum.
 * [Respiratory Rate Estimation](http://peterhcharlton.github.io/RRest/algorithms.html): Code for assessing the performance of respiratory rate algorithms applied to the ECG and PPG, written by Peter H Charlton.
 
+### Pulse Wave Analysis
+
+* [PulseAnalyse](https://peterhcharlton.github.io/pulse-analyse): a tool for analysing arterial pulse waves, such as blood pressure and photoplethysmogram pulse waves, written by Peter H Charlton.
+* [kreservoir](http://www.bg.ic.ac.uk/research/k.parker/wave_intensity_web/kreservoir_v10.m): an algorithm used to separate arterial pressure into reservoir and excess pressures, written by [Prof Kim Parker](http://www.bg.ic.ac.uk/research/k.parker/).
+
 
 ## Data Repositories
 
