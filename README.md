@@ -37,7 +37,9 @@ I have found the following journals to be highly relevant in my research into ph
 * [Journal of Clinical Monitoring and Computing](http://www.springer.com/medicine/anesthesiology/journal/10877)
 * [Medical & Biological Engineering and Computing](https://link.springer.com/journal/11517)
 * [IEEE Reviews in Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4664312/)
-* [MDPI Sensors](http://www.mdpi.com/journal/sensors): see also the upcoming special issue in [MDPI Applied Sciences](https://www.mdpi.com/si/applsci/Signals_Care) on Signals in Health Care.
+* [MDPI Sensors](http://www.mdpi.com/journal/sensors): see also the upcoming [Special Issue](https://www.mdpi.com/journal/sensors/special_issues/sens_sleep) on Smart Sensing for Advanced Sleep Analysis.
+* [JRSM Cardiovascular Disease](https://journals.sagepub.com/home/cvd): see also the upcoming [Special Issue](https://journals.sagepub.com/page/cvd/call-for-papers/waveform-analysis) on Advances in Waveform Analysis for Understanding Cardiovascular Function.
+* [MDPI Information](https://www.mdpi.com/journal/information): see also the upcoming [Special Issue](https://www.mdpi.com/journal/information/special_issues/Smart_Health_Monitoring) on Ubiquitous Sensing for Smart Health Monitoring.
 
 In addition, [this webinar](https://www.brighttalk.com/webcast/8013/301799/an-introduction-to-best-practices-for-refereeing-a-journal-manuscript) provides a useful "introduction to best practices for refereeing a journal manuscript", including a referee report template. [This webpage](http://www.drpaulwong.com/how-to-write-a-good-manuscript-review/) and [this webpage](https://resource-cms.springernature.com/springer-cms/rest/v1/content/13445048/data/v6) give top tips on writing a good review.
 
