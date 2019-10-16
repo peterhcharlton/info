@@ -59,6 +59,7 @@ Here are some of the publicly available algorithms which I have found helpful, a
 
 * [ECG beat detector](http://www.mit.edu/~gari/CODE/ECGtools/ecgBag/rpeakdetect.m): A beat detector for use with the ECG, written by Gari Clifford. Based on the algorithm described by Pan, Hamilton and Tompkins (refs: [1](http://doi.org/10.1109/TBME.1985.325532) and [2](http://doi.org/10.1109/TBME.1986.325695)). Available under the GNU GPL.
 * [Arterial blood pressure beat detector](https://www.physionet.org/physiotools/cardiac-output/code/2analyze/wabp.m): A beat detector for use with the ABP signal, written by James Sun. Based on the code and algorithm developed by Wei Zong (ref: [1](http://doi.org/10.1109/CIC.2003.1291140) ).
+* [PPG beat detector](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v3.0/Algorithms/extract_resp_sig/feat_based_extraction/IMS_peak_detector/adaptPulseSegment.m): A beat detector for use with the PPG signal, written by Marco Pimentel. Based on the algorithm described in Karlen et al (ref: [1](http://doi.org/10.1109/EMBC.2012.6346628) ).
 
 ### Signal Quality Assessment
 
@@ -75,6 +76,11 @@ Here are some of the publicly available algorithms which I have found helpful, a
 
 * [PulseAnalyse](https://peterhcharlton.github.io/pulse-analyse): a tool for analysing arterial pulse waves, such as blood pressure and photoplethysmogram pulse waves, written by Peter H Charlton.
 * [kreservoir](http://www.bg.ic.ac.uk/research/k.parker/wave_intensity_web/kreservoir_v10.m): an algorithm used to separate arterial pressure into reservoir and excess pressures, written by [Prof Kim Parker](http://www.bg.ic.ac.uk/research/k.parker/).
+
+### ECG Analysis
+
+* [ECG Processing Algorithms](http://www.robots.ox.ac.uk/~gari/CODE/ECGtools/): a collection of ECG processing algorithms written by Gari Clifford.
+* [ECG-kit](https://marianux.github.io/ecg-kit/): a Matlab toolbox for cardiovascular signal processing (ref [1](http://doi.org/10.5334/jors.86 ).
 
 
 ## Data Repositories
