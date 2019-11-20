@@ -26,7 +26,7 @@ The following search engines have been useful for finding publications:
 
 I have found the following journals to be highly relevant in my research into physiological measurement techniques, and in the broader field of biomedical engineering:
 
-* [Physiological Measurement](http://iopscience.iop.org/journal/0967-3334/): including several [Focus Issues](http://iopscience.iop.org/journal/0967-3334/page/Focus%20issues).
+* [Physiological Measurement](http://iopscience.iop.org/journal/0967-3334/): including several [Focus Issues](http://iopscience.iop.org/journal/0967-3334/page/Focus%20issues), including one on the [PPG](https://iopscience.iop.org/journal/0967-3334/page/Photoplethysmography-Methods-and-Applications).
 * [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 * [Annals of Biomedical Engineering](http://www.springer.com/biomed/journal/10439)
 * [Journal of Biomedical and Health Informatics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
