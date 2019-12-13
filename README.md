@@ -130,7 +130,7 @@ I have benefited from the resources provided by [Parker Derrington Ltd](http://p
 * [Structuring the application around 10 key sentences](http://parkerderrington.com/get-the-framework-in-place-quickly/)
 * [Writing 10 key sentences](http://parkerderrington.com/key-sentence-skeletons/)
 
-I also found [this webpage](http://www.cihr-irsc.gc.ca/e/45246.html) helpful for understanding what makes for a good letter of support.
+I also found [this webpage](https://wellcome.ac.uk/funding/guidance/funding-interview) helpful for interview preparation, and [this webpage](http://www.cihr-irsc.gc.ca/e/45246.html) helpful for understanding what makes for a good letter of support.
 
 ## Ethics Resources
 
