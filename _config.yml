@@ -1,11 +1,10 @@
 # Name (appears in top header bar)
 title: Resources
+description: Tools for biomedical signal processing research
 
 
 plugins:
   - jekyll-relative-links
-  - jekyll-paginate
-  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
