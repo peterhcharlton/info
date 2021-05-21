@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
   - trial.md
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
