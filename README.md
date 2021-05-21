@@ -14,7 +14,7 @@ I have found the following software packages particularly helpful during my rese
 
 ## Search Engines for Finding Publications
 
-The following search engines have been useful for finding publications:
+I have used the following search engines to find publications:
 
 * [Google Scholar](https://scholar.google.co.uk/): Provides both a simple and an 'Advanced Search'.
 * [IEEE Xplore <sup>TM</sup>](http://ieeexplore.ieee.org/): A database of scientific and technical content published by the IEEE (Institute of Electrical and Electronics Engineers) and partners.
