@@ -5,5 +5,4 @@ relative_links:
   collections: true
 include:
   - README.md
-  - trial.md
 theme: jekyll-theme-architect
