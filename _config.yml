@@ -1,2 +1,8 @@
-title: Test Page
-description: this is a test page
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - trial.md
