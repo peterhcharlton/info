@@ -1,4 +1,4 @@
-Title: Resources
+title: Resources
 plugins:
   - jekyll-relative-links
 relative_links:
