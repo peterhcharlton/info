@@ -11,8 +11,6 @@ This page provides a few resources related to datasets that I have used in my re
 
 ### Overview
 
-| | |
-| ----------- | ------- |
 | **Links** | [Dataset](https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29), [Publication](https://doi.org/10.1145/3242969.3242985) |
 | **Signals** | PPG, ECG, resp, accel, others |
 | **No. Subjs** | 15 |
