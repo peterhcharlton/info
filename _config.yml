@@ -1,19 +1,6 @@
-# --- Required options --- #
-
-# Name of website (appears in top header bar)
+# Name (appears in top header bar)
 title: Resources
 
-author: Peter H Charlton
-
-
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://peterhcharlton.github.io"
 
 plugins:
   - jekyll-relative-links
@@ -24,4 +11,3 @@ relative_links:
   collections: true
 theme: jekyll-theme-architect
 
-# Acknowledgment: this file is based on that at: https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
