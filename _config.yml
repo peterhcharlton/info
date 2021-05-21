@@ -1,10 +1,27 @@
+# --- Required options --- #
+
+# Name of website (appears in top header bar)
 title: Resources
+
 author: Peter H Charlton
+
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://peterhcharlton.github.io"
+
 plugins:
   - jekyll-relative-links
+  - jekyll-paginate
+  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
 theme: jekyll-theme-architect
+
+# Acknowledgment: this file is based on that at: https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
