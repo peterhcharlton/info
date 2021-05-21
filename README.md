@@ -1,5 +1,5 @@
-# Teaching Resources
+# Resources
 
-This repository provides links to various resources which I have used in teaching.
+This repository provides links to various resources which I have used for research.
 
-The resources are available [here](https://peterhcharlton.github.io/teaching/).
+Details of the resources are provided [here](https://peterhcharlton.github.io/resources/).
