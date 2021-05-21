@@ -1,6 +1,6 @@
 # Datasets
 
-This page provides a few resources related to datasets that I have used in my research:
+This page provides a few resources related to the following datasets that I have used in my research:
 
 | Dataset     | Signals | Overview of protocol | 
 | :--- | :--- | :--- |
