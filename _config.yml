@@ -3,6 +3,6 @@ title: Resources
 # Description (appears immediately below title)
 description: Tools for research
 
-
-theme: jekyll-theme-architect
+remote_theme: pmarsceill/just-the-docs
+# theme: jekyll-theme-architect
 
