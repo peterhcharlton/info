@@ -6,3 +6,12 @@ description: Tools for research
 remote_theme: pmarsceill/just-the-docs
 # theme: jekyll-theme-architect
 
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 3
+  rel_url: false
+
+aux_links:
+  "PeterHCharlton's Resources on GitHub":
+    - "https://github.com/peterhcharlton/resources"
