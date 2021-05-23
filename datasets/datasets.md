@@ -5,6 +5,19 @@ has_children: true
 ---
 
 # Datasets
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 
 This page provides a few resources related to the following datasets that I have used in my research:
 
