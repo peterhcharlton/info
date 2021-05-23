@@ -1,3 +1,9 @@
+---
+layout: default
+title: Datasets
+has_children: true
+---
+
 # Datasets
 
 This page provides a few resources related to the following datasets that I have used in my research:
