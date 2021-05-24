@@ -10,14 +10,6 @@ permalink: /
 
 This page provides links to resources which I have used in teaching.
 
-## Matlab &reg; Scripts
-
-I have found the following Matlab &reg; scripts very helpful:
-
-* [export_fig](https://uk.mathworks.com/matlabcentral/fileexchange/23629-export-fig): Useful for saving Matlab &reg; figures in formats for publication. For instance, often publications require figures in *.eps* format with fonts embedded, which this script can provide.
-
-[This publication](http://doi.org/10.1371/journal.pbio.1001745) provides some helpful tips on writing code.
-
 ## Textbooks
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/)
