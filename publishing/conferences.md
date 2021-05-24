@@ -15,10 +15,8 @@ parent: Publishing Resources
 
 ---
 
-## International Electronic Conference on Sensors and Applications
+* [Medical Physics and Engineering Conference, Institute of Physics and Engineering in Medicine (IPEM)](https://www.ipem.ac.uk/conferencesevents/mpec.aspx)
 
-[International Electronic Conference on Sensors and Applications](https://ecsa-6.sciforum.net/): an online conference which accepts both poster and 6-page paper submissions, and has open-access proceedings.
+* [International Electronic Conference on Sensors and Applications](https://ecsa-6.sciforum.net/): an online conference which accepts both poster and 6-page paper submissions, and has open-access proceedings.
 
-## Innovations and Applications of Monitoring Perfusion, Oxygenation and Ventilation Intl Symposium
-
-[Innovations and Applications of Monitoring Perfusion, Oxygenation and Ventilation Intl Symposium](https://iampov.org/): a symposium being held in London with a strong emphasis on the photoplethysmogram (PPG) signal.
+* [Innovations and Applications of Monitoring Perfusion, Oxygenation and Ventilation Intl Symposium](https://iampov.org/): a symposium being held in London with a strong emphasis on the photoplethysmogram (PPG) signal.
