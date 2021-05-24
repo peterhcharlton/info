@@ -5,15 +5,6 @@ parent: Publishing Resources
 ---
 
 # Journals
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 I have found the following journals to be highly relevant in my research into physiological measurement techniques, and in the broader field of biomedical engineering:
 
