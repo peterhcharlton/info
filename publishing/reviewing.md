@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reviewing Articles
-parent: Publishing
+parent: Publishing Resources
 ---
 
 # Reviewing Articles

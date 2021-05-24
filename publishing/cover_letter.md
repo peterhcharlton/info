@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Writing a Cover Letter
-parent: Publishing
+parent: Publishing Resources
 ---
 
 # Writing a Cover Letter

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Journals
-parent: Publishing
+parent: Publishing Resources
 ---
 
 # Journals

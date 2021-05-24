@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Repositories
-parent: Publishing
+parent: Publishing Resources
 ---
 
 # Repositories

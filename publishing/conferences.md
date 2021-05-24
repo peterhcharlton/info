@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conferences
-parent: Publishing
+parent: Publishing Resources
 ---
 
 # Conferences
