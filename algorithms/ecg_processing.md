@@ -4,7 +4,7 @@ title: ECG Signal Processing
 parent: Algorithms
 ---
 
-# Parameter Estimation
+# ECG Signal Processing
 {: .no_toc }
 
 ## Table of contents
