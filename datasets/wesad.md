@@ -5,7 +5,7 @@ parent: Datasets
 permalink: datasets/wesad
 ---
 
-# Typography
+# WESAD Dataset
 {: .no_toc }
 
 ## Table of contents
@@ -15,8 +15,6 @@ permalink: datasets/wesad
 {:toc}
 
 ---
-
-## WESAD Dataset
 
 ### Overview
 

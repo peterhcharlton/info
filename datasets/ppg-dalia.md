@@ -5,7 +5,7 @@ parent: Datasets
 permalink: datasets/ppg-dalia
 ---
 
-# Typography
+# PPG-DaLiA Dataset
 {: .no_toc }
 
 ## Table of contents
@@ -15,8 +15,6 @@ permalink: datasets/ppg-dalia
 {:toc}
 
 ---
-
-## PPG-DaLiA Dataset
 
 ### Overview
 
