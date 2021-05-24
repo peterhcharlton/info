@@ -4,17 +4,6 @@ title: Careers Resources
 parent: Tips
 ---
 
-# Careers Resources
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 * Deciding whether to do a PhD: The following websites provide some helpful insight into life as a PhD student: [FindAPhD](https://www.findaphd.com/advice/doing/), [Jobs.ac.uk](https://blog.jobs.ac.uk/phd-student/).
 * Time management: [This website](https://www.ithinkwell.com.au/) is helpful for PhD students.
 * [Interview Tips](http://www.jobs.ac.uk/careers-advice/interview-tips/): Guidance from *jobs.ac.uk* on preparing for job interviews, including their [top 5 academic interview questions and answers](http://www.jobs.ac.uk/careers-advice/interview-tips/1276/top-5-academic-interview-questions-and-answers).
