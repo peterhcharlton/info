@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Writing Code
+title: Code Writing
 parent: Tips
 ---
 
