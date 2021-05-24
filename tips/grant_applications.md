@@ -5,15 +5,6 @@ parent: Tips
 ---
 
 # Grant Applications
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 I have benefited from the resources provided by [Parker Derrington Ltd](http://parkerderrington.com/), which are provided in their [blog](https://parkerderrington.com/catalogue/), including:
 * [Preparing to write a grant application](http://parkerderrington.com/are-you-ready-to-start/)

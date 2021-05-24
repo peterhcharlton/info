@@ -5,15 +5,6 @@ parent: Tips
 ---
 
 # Ethics
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 * [HRA Decision Tool](http://www.hra-decisiontools.org.uk/ethics/): This is helpful for determining whether your intended project requires ethical approval.
 * [UK Policy for Health and Social Care Research](https://www.hra.nhs.uk/planning-and-improving-research/policies-standards-legislation/uk-policy-framework-health-social-care-research/): Principles for conducting health research.
