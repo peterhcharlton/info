@@ -7,8 +7,17 @@ permalink: /
 ---
 
 # Peter H Charlton's Resources
+{: .no_toc }
 
-This page provides links to resources which I have used in teaching.
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+This page provides links to resources which I have used in teaching and research.
 
 
 
