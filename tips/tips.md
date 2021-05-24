@@ -2,7 +2,7 @@
 layout: default
 title: Tips
 has_children: true
-permalink: tools
+permalink: tips
 ---
 
 # Tips for Research
