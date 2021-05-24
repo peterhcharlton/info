@@ -2,7 +2,6 @@
 layout: default
 title: Home
 nav_order: 1
-has_children: true
 description: "Resources for Research"
 permalink: /
 ---
@@ -18,7 +17,9 @@ permalink: /
 
 ---
 
-This page provides links to resources which I have used in teaching and research.
+This page provides links to resources which I have used in teaching and research:
+
+*[Algorithms for biomedical signal processing](algorithms)
 
 
 

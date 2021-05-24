@@ -2,7 +2,6 @@
 layout: default
 title: Images
 permalink: images
-parent: Home
 ---
 
 # Images for use in research and education
