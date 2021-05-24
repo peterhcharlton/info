@@ -10,13 +10,6 @@ permalink: /
 
 This page provides links to resources which I have used in teaching.
 
-
-
-## Lecture Courses and Presentations
-
-* [Biomedical Signal and Image Processing](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/index.htm): Available from MIT OpenCourseWare, including lecture slides and lab practical resources.
-* [Teaching Medical Physics](http://www.iop.org/education/teacher/resources/teaching-medical-physics/page_54690.html): A set of resources provided by the Institute of Physics covering some commonly used physiological measurement and imaging techniques.
-
 ## Datasets
 
 * [Arterial Pulse Wave Database](https://peterhcharlton.github.io/pwdb): Simulated arterial pulse waves at a range of common measurement sites for 4,374 virtual subjects aged 25-75 years, representative of healthy adults (ref [1](https://doi.org/10.1152/ajpheart.00218.2019)).

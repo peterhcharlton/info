@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Textbooks
-has_children: true
 permalink: textbooks
 ---
 
-# Recommended textbooks
-{: .no_toc }
+# Recommended Textbooks
 
 This page provides details of some textbooks which I have found helpful in my research.
 {: .fs-6 .fw-300 }
