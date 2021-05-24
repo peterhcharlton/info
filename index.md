@@ -17,16 +17,16 @@ permalink: /
 
 ---
 
-This page provides links to resources which I have used in teaching and research:
+This site provides details of resources which I have used in teaching and research:
 
-*[Algorithms for biomedical signal processing](algorithms)
-*[Datasets containing physiological signals](datasets)
-*[Images for use in teaching and research](images)
-*[Presentations](presentations)
-*[Publishing resources](publishing)
-*[Textbooks](textbooks)
-*[Tips](tips)
-*[Tools](tools)
+* [Algorithms for biomedical signal processing](algorithms)
+* [Datasets containing physiological signals](datasets)
+* [Images for use in teaching and research](images)
+* [Presentations](presentations)
+* [Publishing resources](publishing)
+* [Research Tools](tools)
+* [Textbooks](textbooks)
+* [Tips](tips)
 
 
 
