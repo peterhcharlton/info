@@ -19,7 +19,7 @@ This site provides details of resources which I have used in teaching and resear
 * [Textbooks](textbooks)
 * [Tips](tips)
 
-# Further Details of Peter's Research
+# Peter's Research
 
 Further details of my work are available at my [ORCiD ID](https://orcid.org/0000-0003-3836-8655), and on [Google Scholar](https://scholar.google.co.uk/citations?user=BJjD81oAAAAJ)
 
