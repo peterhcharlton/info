@@ -22,6 +22,9 @@ aux_links:
   "PeterHCharlton's Resources on GitHub":
     - "https://github.com/peterhcharlton/resources"
 
+# logo
+#logo: "https://github.com/pmarsceill/just-the-docs/blob/master/assets/images/just-the-docs.png"
+
 # Back to top link
 back_to_top: false
 back_to_top_text: "Back to top"
