@@ -6,10 +6,17 @@ parent: Parameter Estimation
 ---
 
 # A Toolbox of Respiratory Rate Algorithms
-{: .no_toc }
 
 This page provides an overview of RRest, a toolbox of respiratory rate algorithms.
 {: .fs-6 .fw-300 }
+
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
