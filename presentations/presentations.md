@@ -2,6 +2,7 @@
 layout: default
 title: Presentations
 permalink: presentations
+nav_exclude: true
 ---
 
 # Lecture Courses and Presentations
