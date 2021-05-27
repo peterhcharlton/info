@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Parameter Estimation
+has_children: true
 parent: Algorithms
 ---
 
