@@ -6,11 +6,11 @@ parent: Parameter Estimation
 ---
 
 # A Toolbox of Respiratory Rate Algorithms
+{: .no_toc }
 
 This page provides an overview of RRest, a toolbox of respiratory rate algorithms.
 {: .fs-6 .fw-300 }
 
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -19,22 +19,6 @@ This page provides an overview of RRest, a toolbox of respiratory rate algorithm
 {:toc}
 
 ---
-
-1. <a href="#what_is">What Is RRest?</a>
-
-2. <a href="#what_does">What does RRest do?</a>
-
-3. <a href="#why">Why is RRest helpful?
-
-4. <a href="#how_design">How is RRest designed?
-
-5. <a href="#how_more">How can I find out more?
-
-6. <a href="#how_contribute">How can I contribute to RRest?
-
-7. <a href="#what_not">What does RRest not do?
-
-<a name="what_is" />
 
 ## What is RRest?
 RRest is a toolbox of algorithms for estimation of respiratory rate from physiological signals. It is written in Matlab &reg; format, and contains a wide range of algorithms previously reported in the literature. It is part of a larger project called the [Respiratory Rate Estimation](http://peterhcharlton.github.io/RRest/) project. The project contains additional material such as [data](http://peterhcharlton.github.io/RRest/datasets.html) to use with the algorithms, [publications](http://peterhcharlton.github.io/RRest/publications.html) arising from the project, and details of how to [make contributions](http://peterhcharlton.github.io/RRest/contributions.html).
