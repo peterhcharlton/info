@@ -26,4 +26,4 @@ parent: Algorithms
 
 ## Respiratory Rate
 
-[Respiratory Rate Estimation](http://peterhcharlton.github.io/RRest/algorithms.html): Code for assessing the performance of respiratory rate algorithms applied to the ECG and PPG, written by Peter H Charlton. (docs [here](algorithms/RRest))
+[Respiratory Rate Estimation](http://peterhcharlton.github.io/RRest/algorithms.html): Code for assessing the performance of respiratory rate algorithms applied to the ECG and PPG, written by Peter H Charlton. (docs [here](RRest/RRest))
