@@ -2,7 +2,6 @@
 layout: default
 title: Respiratory Rate Estimation
 has_children: true
-permalink: RRest
 parent: Parameter Estimation
 ---
 
