@@ -3,7 +3,7 @@ layout: default
 title: RRest
 has_children: true
 permalink: RRest
-parent: algorithms
+parent: Algorithms
 ---
 
 # RRest

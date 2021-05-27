@@ -15,9 +15,9 @@ This site provides details of resources which I have used in teaching and resear
 * [**Images**: for use in teaching and research](images)
 * [**Presentations**](presentations)
 * [**Publishing resources**](publishing)
+* [**Research tips**](tips)
 * [**Research tools**](tools)
 * [**Textbooks**](textbooks)
-* [**Research tips**](tips)
 
 # Peter's Research
 
