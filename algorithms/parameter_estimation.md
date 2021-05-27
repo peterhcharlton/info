@@ -3,6 +3,7 @@ layout: default
 title: Parameter Estimation
 has_children: true
 parent: Algorithms
+has_toc: false
 ---
 
 # Parameter Estimation
