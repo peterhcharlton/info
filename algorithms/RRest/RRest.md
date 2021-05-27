@@ -1,9 +1,9 @@
 ---
 layout: default
-title: RRest
+title: Respiratory Rate Estimation
 has_children: true
 permalink: RRest
-parent: Algorithms
+parent: Parameter Estimation
 ---
 
 # RRest
