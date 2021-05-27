@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools
+title: Research tools
 has_children: true
 permalink: tools
 ---

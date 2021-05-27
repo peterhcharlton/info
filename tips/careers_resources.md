@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Careers Resources
-parent: Tips
+parent: Research tips
 ---
 
 # Careers Resources

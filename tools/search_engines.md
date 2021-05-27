@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Search Engines
-parent: Tools
+parent: Research tools
 ---
 
 ## Search Engines

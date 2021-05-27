@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tips
+title: Research tips
 has_children: true
 permalink: tips
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Software Packages
-parent: Tools
+parent: Research tools
 ---
 
 ## Software Packages

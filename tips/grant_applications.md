@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Grant Applications
-parent: Tips
+parent: Research tips
 ---
 
 # Grant Applications

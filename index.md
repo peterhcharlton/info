@@ -10,14 +10,14 @@ permalink: /
 
 This site provides details of resources which I have used in teaching and research:
 
-* [Algorithms for biomedical signal processing](algorithms)
-* [Datasets containing physiological signals](datasets)
-* [Images for use in teaching and research](images)
-* [Presentations](presentations)
-* [Publishing resources](publishing)
-* [Research Tools](tools)
-* [Textbooks](textbooks)
-* [Tips](tips)
+* [**Algorithms**: for biomedical signal processing](algorithms)
+* [**Datasets**: containing physiological signals](datasets)
+* [**Images**: for use in teaching and research](images)
+* [**Presentations**](presentations)
+* [**Publishing resources**](publishing)
+* [**Research tools**](tools)
+* [**Textbooks**](textbooks)
+* [**Research tips**](tips)
 
 # Peter's Research
 

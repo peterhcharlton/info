@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Public Engagement
-parent: Tips
+parent: Research tips
 ---
 
 # Public Engagement Resouces

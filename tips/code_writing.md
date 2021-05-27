@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code Writing
-parent: Tips
+parent: Research tips
 ---
 
 # Writing Code

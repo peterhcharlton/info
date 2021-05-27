@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ethics
-parent: Tips
+parent: Research tips
 ---
 
 # Ethics
