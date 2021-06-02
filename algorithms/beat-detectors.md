@@ -27,3 +27,12 @@ parent: Algorithms
 
 [PPG beat detector](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v3.0/Algorithms/extract_resp_sig/feat_based_extraction/IMS_peak_detector/adaptPulseSegment.m): A beat detector for use with the PPG signal, written by Marco Pimentel. Based on the algorithm described in Karlen et al (ref: [1](http://doi.org/10.1109/EMBC.2012.6346628) ).
 
+# Testing
+<details>
+<summary> Click to expand </summary>
+
+The stuff that gets shown when you click to expand, like
+- one thing
+- another thing
+</details>
+
