@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Respiratory Rate Estimation
+title: Respiratory Rate
 has_children: true
 parent: Parameter Estimation
 grand_parent: Algorithms
