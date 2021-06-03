@@ -5,6 +5,7 @@ has_children: true
 parent: Parameter Estimation
 grand_parent: Algorithms
 has_toc: false
+permalink: RRest/
 ---
 
 # A Toolbox of Respiratory Rate Algorithms
