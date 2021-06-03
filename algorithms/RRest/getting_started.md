@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting started with RRest
-has_children: true
+has_children: false
 parent: Respiratory Rate
 grand_parent: Parameter Estimation
 ---
