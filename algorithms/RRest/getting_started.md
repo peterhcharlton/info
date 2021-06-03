@@ -3,7 +3,6 @@ layout: default
 title: Getting started with RRest
 has_children: false
 parent: Respiratory Rate
-permalink: RRest/getting_started
 ---
 
 # Getting Started
