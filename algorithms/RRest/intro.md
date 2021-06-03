@@ -4,6 +4,7 @@ title: Respiratory Rate
 has_children: true
 parent: Algorithms
 permalink: RRest
+has_toc: false
 ---
 
 # A Toolbox of Respiratory Rate Algorithms
