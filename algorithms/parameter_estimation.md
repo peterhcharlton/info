@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parameter Estimation
-has_children: true
+has_children: false
 parent: Algorithms
 has_toc: false
 ---

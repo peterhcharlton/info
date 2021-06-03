@@ -1,0 +1,7 @@
+_site
+.git
+.jekyll-cache
+Gemfile
+Gemfile.lock
+just-the-docs.gemspec
+*.DS_Store

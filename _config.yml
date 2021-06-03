@@ -4,7 +4,7 @@ title: Resources
 description: Tools for research
 
 remote_theme: pmarsceill/just-the-docs
-# theme: jekyll-theme-architect
+theme: just-the-docs
 
 search:
   # Split pages into sections that can be searched individually
