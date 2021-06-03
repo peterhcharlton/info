@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Input Data for RRest
-has_children: false
+has_children: true
 parent: Respiratory Rate
 grand_parent: Algorithms
 ---
