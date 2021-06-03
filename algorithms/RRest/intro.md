@@ -2,8 +2,8 @@
 layout: default
 title: Respiratory Rate
 has_children: true
-parent: Parameter Estimation
-grand_parent: Algorithms
+parent: Algorithms
+permalink: RRest
 ---
 
 # A Toolbox of Respiratory Rate Algorithms
