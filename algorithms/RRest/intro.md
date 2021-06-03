@@ -3,7 +3,6 @@ layout: default
 title: Respiratory Rate
 has_children: true
 parent: Algorithms
-permalink: RRest
 ---
 
 # A Toolbox of Respiratory Rate Algorithms
