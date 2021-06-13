@@ -1,7 +1,9 @@
 # Name (appears in top header bar)
-title: Resources
+title: Peter Charlton's Resources
 # Description (appears immediately below title)
 description: Tools for research
+# tagline
+tagline: Biomedical signal processing tools
 
 remote_theme: pmarsceill/just-the-docs
 # theme: just-the-docs
