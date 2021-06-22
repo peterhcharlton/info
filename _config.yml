@@ -10,7 +10,7 @@ author: Peter H Charlton
 google-site-verification: google49454546bc54e329.html
 
 remote_theme: pmarsceill/just-the-docs
-# theme: just-the-docs
+theme: just-the-docs
 
 search:
   # Split pages into sections that can be searched individually

@@ -21,5 +21,5 @@ This site provides details of resources which I have used in teaching and resear
 
 # Peter's Research
 
-Further details of my research are available at my [ORCiD ID](https://orcid.org/0000-0003-3836-8655), and on [Google Scholar](https://scholar.google.co.uk/citations?user=BJjD81oAAAAJ)
+Details of my research are available [here](https://peterhcharlton.github.io/).
 
