@@ -47,6 +47,14 @@ This page provides details of how devices are being setup for use in the SAFER W
 ### Post-study
 {: .no_toc }
 
+1. Disconnect the device.
+2. Remove lead set.
+3. Clean device and lead set.
+4. Plug device into Windows PC using USB device.
+5. Copy across the relevant data file(s)
+6. Leave device on charge until fully charged (usually 1-2 hours)
+7. Remove device and make sure it's turned off.
+
 
 ## PulseOn OHR Tracker
 
@@ -61,6 +69,12 @@ This page provides details of how devices are being setup for use in the SAFER W
 ### Post-study
 {: .no_toc }
 
+1. Remove device
+2. Clean device
+3. Sync device with mobile phone
+4. Turn off device by holding down button for approx. 12 seconds (the power symbol displays after about 8 seconds, and you have to keep the button pressed until turned off).
+5. Charge device
+6. Export data from PulseOnOHR SQL database using 'DB Browser for SQLite': (i) adl data; (ii) raw data; (iii) cont data.
 
 ## Withings Move-ECG
 
@@ -74,7 +88,12 @@ This page provides details of how devices are being setup for use in the SAFER W
 ### Post-study
 {: .no_toc }
 
-
+1. Remove device
+2. Clean device
+3. Sync with mobile phone
+4. Sync mobile phone with cloud
+5. Request data export by logging in to the [Withings Healthmate website](https://healthmate.withings.com/), clicking 'Settings', selecting the user, then clicking 'Download my data'.
+6. Download data
 
 ## Mobile Phone
 
@@ -92,3 +111,9 @@ This page provides details of how devices are being setup for use in the SAFER W
 
 ### Post-study
 {: .no_toc }
+
+1. Clean device
+2. Attach via USB to Windows PC
+3. Copy across `PulseOnOHR\pulseon_ohr_... .sqlite` database file
+4. Do not remove until fully charged
+5. Turn off device
