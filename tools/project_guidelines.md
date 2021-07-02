@@ -95,13 +95,20 @@ The research plan does not need to be detailed - for instance, you probably won'
 ## Data Access
 _Weeks 1-2_
 
+It is likely that you will use one or more datasets in your project. These could be publicly available datasets, or private datasets hosted within an institution:
+
+- **Publicly available datasets**: If you are using a publicly available dataset (such as those listed [here](datasets)), then hopefully it should be relatively straightforward to access the data. I have provided some MATLAB code to help collate some of these datasets into suitable formats for analysis [here](datasets).
+- **Private datasets**: If you are using a private dataset (such as the SAFER dataset) then you may need remote access to the data. Discuss this with me, and if you do require remote access to a dataset hosted in Cambridge, then it is likely you will need to follow the instructions provided by the Clinical School Computing Service ([here](https://confluence.medschl.cam.ac.uk/display/FAQ)) in order to gain remote access. Specifically, you will need:
+   - **A suitable login**: if you are using a temporary account then you will need to reset its password [here](https://sspp.medschl.cam.ac.uk/).
+   - **A VPN connection**: You will need to connect to a VPN in order to have permission to access the system. See the instructions [here](https://confluence.medschl.cam.ac.uk/pages/viewpage.action?pageId=12094187) on setting up a VPN. Note that you will be using the [settings for the Biomedical Campus](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus). If you have been given a temporary login then you will use that to login to the VPN.
+   - **Remote desktop software**: If you are using a Windows computer at home, then see [these instructions](https://confluence.medschl.cam.ac.uk/display/FAQ/Remotely+Connect+to+Your+Work+PC#RemotelyConnecttoYourWorkPC-UsingRemoteDesktopConnectionfromhome) on how to remotely connect to the Cambridge computer from your home computer. Ask me for the name of the Cambridge computer that you are connecting to, and if you have been given a temporary login then use that to login. If you are using a Mac at home, then you will need to use a different piece of Remote desktop connection software - 'Microsoft Remote Desktop', which is free in the App Store.
+
 ## Experiments
 _Weeks 3-5_
 
-## Project Report
-_Weeks 3-6_
+It will take time to understand the dataset(s) you are using. This is an important part of the project, and investing time at this stage will make conducting the experiments much easier.
 
-## Experiments
+## Project Report
 _Weeks 3-6_
 
 ## Project Presentation
