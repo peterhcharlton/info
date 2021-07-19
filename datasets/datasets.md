@@ -17,6 +17,7 @@ This page provides details of publicly available datasets that may be useful for
 | [WESAD](datasets/wesad) | PPG, ECG, resp, accel, others | Recordings at baseline and during amusement, stress and meditation |
 | [PPG-DaLiA](datasets/ppg-dalia) | PPG, ECG, resp, accel, EDA | Recordings during activities of daily living |
 | [CapnoBase](datasets/capnobase) | PPG, ECG, resp | Signals from patients during elective surgery and routine anaesthesia. (ref: [1](http://doi.org/10.1109/TBME.2013.2246160) ). |
+| [MESA Polysomnography](datasets/mesa) | PPG, ECG, EEG, resp, others | Recordings from overnight polysomnography (sleep) studies. (ref: [1](https://doi.org/10.1093/jamia/ocy064) [2](https://doi.org/10.5665/sleep.4732) ). |
 | [Vortal](http://peterhcharlton.github.io/RRest/vortal_dataset.html) | PPG, ECG, resp | signals acquired from young and elderly healthy subjects at rest (ref: [1](http://doi.org/10.1088/0967-3334/37/4/610) [2](http://doi.org/10.1088/1361-6579/aa670e) ). |
 | [Arterial Pulse Wave Database](https://peterhcharlton.github.io/pwdb) | PPG, BP, blood flow, blood vel | Simulated arterial pulse waves at a range of common measurement sites for 4,374 virtual subjects aged 25-75 years, representative of healthy adults (ref [1](https://doi.org/10.1152/ajpheart.00218.2019)) |
 
