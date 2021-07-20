@@ -46,6 +46,8 @@ You may want to start work on the project early, in which case I would recommend
 
 I will be happy to recommend some suitable articles.
 
+---
+
 ## Learning objectives
 _Week 1_
 
@@ -56,6 +58,8 @@ It is good to firstly think about what you would like to learn from the project.
 - Understanding good practice for clinical research (such as by undertaking a [Good Clinical Practice](https://www.nihr.ac.uk/health-and-care-professionals/learning-and-support/good-clinical-practice.htm) course)
 
 We will discuss your hopes for the project during the first week. This process will help me tailor the project towards your personal learning objectives.
+
+---
 
 ## Literature Review
 _Weeks 1-2_
@@ -77,6 +81,8 @@ I would suggest the following steps to create a literature review:
 
 **Further thoughts:** Ideally, a literature review should critically appraise the literature, rather than simply stating what has been said in the literature. Usually, a review of between 1,000 and 3,000 words is appropriate. You may wish to add to your literature review during the project if you find additional relevant publications.
 
+---
+
 ## Research Plan
 _Weeks 1-2_
 
@@ -92,6 +98,8 @@ I would suggest trying to summarise the following on a single side of A4:
 
 The research plan does not need to be detailed - for instance, you probably won't know at this stage how many participants are in the dataset, or which statistical tests you might perform. Rather, it should provide a high-level summary of the project.
 
+---
+
 ## Data Access
 _Weeks 1-2_
 
@@ -103,10 +111,18 @@ It is likely that you will use one or more datasets in your project. These could
    - **A VPN connection**: You will need to connect to a VPN in order to have permission to access the system. See the instructions [here](https://confluence.medschl.cam.ac.uk/pages/viewpage.action?pageId=12094187) on setting up a VPN. Note that you will be using the [settings for the Biomedical Campus](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus). If you have been given a temporary login then you will use that to login to the VPN.
    - **Remote desktop software**: If you are using a Windows computer at home, then see [these instructions](https://confluence.medschl.cam.ac.uk/display/FAQ/Remotely+Connect+to+Your+Work+PC#RemotelyConnecttoYourWorkPC-UsingRemoteDesktopConnectionfromhome) on how to remotely connect to the Cambridge computer from your home computer. Ask me for the name of the Cambridge computer that you are connecting to, and if you have been given a temporary login then use that to login to the computer. If you are using a Mac at home, then you will need to use a different piece of Remote desktop connection software - 'Microsoft Remote Desktop', which is free in the App Store.
 
+---
+
 ## Experiments
 _Weeks 3-5_
 
-It will take time to understand the dataset(s) you are using. This is an important part of the project, and investing time at this stage will make conducting the experiments much easier.
+We will discuss your planned experiments when discussing your [Research Plan](#research-plan). It is likely that you will need to obtain new skills and develop new skills to carry out the experiments. Here are a few general hints, although much of the experimental methodology will be particular to your project, so is best discussed between us.
+
+- **Answering research questions:** Your experiment(s) should aim to answer one or more research questions (as listed in your [Research Plan](#research-plan)). In general, it is better to answer one question well, than to answer several questions less well. The remaining hints are designed to help you answer research questions well.
+- **Understanding the dataset:** It will take time to understand the dataset(s) you are using. This is an important part of the project, and investing time at this stage will make conducting the experiments much easier.
+- **Designing appropriate analyses:** Once you have gained an understanding of the dataset, you will be in a position
+- **Curating the dataset:** You will probably only need particular variables from the dataset for your research. You may also only need data from particular subjects who meet inclusion criteria. Furthermore, you may need to derive new variables from those in the dataset. I recommend taking time to curate the dataset to prepare it for the analyses. Document how you curated the dataset, and understand any assumptions made and their potential implications on the results (such as the criteria used for identifying subjects for inclusion, which may limit the generalisability of the conclusions to only subjects meeting those criteria).
+- **Performing analyses:** You will need to use statistical software such as Excel, MATLAB, GraphPad, or others, to perform the analyses. I recommend that you make the analyses as reproducible as possible. Firstly, make sure you keep a copy of the original data files, so that you can always get back to the original data. Secondly, if you know how to code, then consider creating a script to perform the analyses. This makes it easy to modify the methods you use if you decide to change them during the project.
 
 ## Project Report
 _Weeks 3-6_
