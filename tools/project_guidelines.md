@@ -124,13 +124,19 @@ We will discuss your planned experiments when discussing your [Research Plan](#r
 - **Curating the dataset:** You will probably only need particular variables from the dataset for your research. You may also only need data from particular subjects who meet inclusion criteria. Furthermore, you may need to derive new variables from those in the dataset. I recommend taking time to curate the dataset to prepare it for the analyses. Document how you curated the dataset, and understand any assumptions made and their potential implications on the results (such as the criteria used for identifying subjects for inclusion, which may limit the generalisability of the conclusions to only subjects meeting those criteria).
 - **Performing analyses:** You will need to use statistical software such as Excel, MATLAB, GraphPad, or others, to perform the analyses. I recommend that you make the analyses as reproducible as possible. Firstly, make sure you keep a copy of the original data files, so that you can always get back to the original data. Secondly, if you know how to code, then consider creating a script to perform the analyses. This makes it easy to modify the methods you use if you decide to change them during the project.
 - **Documenting analyses:** Keep a record of your experiments: the methods you use, and the results you obtain. This can take many forms, such as paper notes, a logbook (the traditional way), or electronic notes (I use [Joplin](https://joplinapp.org/)). The objective here is to be able to recall what you did, so that you can accurately document your methods in your project report. To this end, you may also find it helpful to write bullet point notes in your [Project Report](#project-report) as you are conducting the experiment, to help you when writing up the report.
-- **Discussing analyses:**
+- **Discussing analyses:** We will aim to meet at least once per week during the project. It would be helpful if you could summarise the work you have done on the analyses during these meetings. This will help me to provide specific guidance on your work.
+
+---
 
 ## Project Report
 _Weeks 3-6_
 
+---
+
 ## Project Presentation
 _Week 6_
+
+---
 
 ## Conference Submission
 _Post-project_
