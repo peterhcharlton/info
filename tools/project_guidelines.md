@@ -131,6 +131,19 @@ We will discuss your planned experiments when discussing your [Research Plan](#r
 ## Project Report
 _Weeks 3-6_
 
+Your project report will probably be the most important output from your project. It will enable others to learn about your work and make use of it, whether in research or clinical practice. I'd encourage you to structure your report using the standard structure of articles reporting scientific experiments (with some additional flexibility):
+- **Introduction:** The introduction should:
+  1. Motivate the work: Provide the motivation for both the broad topic of your work (e.g. identifying atrial fibrillation) and the specific issue that you have focused on (e.g. accurately identifying ECG recordings for clinical review). _Minimum length: 1 paragraph._
+  2. Summarise the state-of-the-art: Describe the state-of-the-art in tackling the specific issue, making reference to key publications (perhaps 5-10 references). If there really is no prior art in tackling this particular issue, then refer to works which have tackled similar issues. _Minimum length: 1 paragraph._
+  3. Summarise your study: State the aim of the study in a single sentence. If necessary, use an additional sentence to state the objectives (i.e. the smaller aims). Describe key aspects of the methodology used in your experiments in 1-2 sentences, focusing on those which make your experiment(s) particularly valuable (e.g. using a large dataset which is representative of real-world conditions). Whilst there is no need to state the results at this stage, you could briefly mention how the results are significant (e.g. _"the results will be valuable for the design of AF screening programmes"_).
+- **Literature review:** 
+- **Methods:** 
+- **Results:** 
+- **Discussion:** 
+- **Conclusion:** 
+- **Acknowledgment:** 
+- **Appendices:** 
+
 ---
 
 ## Project Presentation
