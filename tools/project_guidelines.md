@@ -132,6 +132,11 @@ We will discuss your planned experiments when discussing your [Research Plan](#r
 _Weeks 3-6_
 
 Your project report will probably be the most important output from your project. It will enable others to learn about your work and make use of it, whether in research or clinical practice. I'd encourage you to structure your report using the standard structure of articles reporting scientific experiments (with some additional flexibility):
+- **Abstract:** (write this last) Here's a suggested template for writing the introduction (i.e. first part) of an abstract: (based on [this article](https://doi.org/10.3390/ecsa-7-08195), reproduced under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
+  - State the big problem, e.g. _"Atrial fibrillation (AF) is a common irregular heart rhythm associated with a five-fold increase in stroke risk."
+  - State the smaller problem being tackled in this study,, e.g. _"It is often not recognised as it can occur intermittently and without symptoms. A promising approach to detect AF is to use a handheld electrocardiogram (ECG) sensor for screening. However, the ECG recordings must be manually reviewed, which is time-consuming and costly."
+  - State the aim(s) of the study, e.g. _"Our aims were to: (i) evaluate the manual review workload; and (ii) evaluate strategies to reduce the workload."
+The remainder of the abstract should include the methods, results, and conclusion.
 - **Introduction:** The introduction should:
   1. Motivate the work: Provide the motivation for both the broad topic of your work (e.g. identifying atrial fibrillation) and the specific issue that you have focused on (e.g. accurately identifying ECG recordings for clinical review). _Minimum length: 1 paragraph._
   2. Summarise the state-of-the-art: Describe the state-of-the-art in tackling the specific issue, making reference to key publications (perhaps 5-10 references). If there really is no prior art in tackling this particular issue, then refer to works which have tackled similar issues. _Minimum length: 1 paragraph._
@@ -148,9 +153,9 @@ There is a tension between providing all the necessary details, and keeping the 
   - Significance: What are the implications of the results? For instance, could they impact future research, device design, or clinical practice?
   - Limitations (often a subsection): What were the limitations to this study? How generalisable are the results?
   - Future work (often a subsection): Discuss potential directions for future work to build on this study.
-- **Conclusion:** 
-- **Acknowledgment:** 
-- **Appendices:** 
+- **Conclusion:** A short section stating the key conclusion(s) of the work. Often this only needs to be a few sentences in length.
+- **Acknowledgment:** Acknowledge any funding providers.
+- **Appendices _(optional)_:** In many reports there is no need for appendices. However, they can be a useful way of documenting additional work you have done (such as results which don't relate to the main research question(s)).
 
 You may find it helpful to use a template for your report, such as the Microsoft Word or Latex templates provided in the 'Instructions for Authors' section of [this webpage](https://ecsa-8.sciforum.net/).
 
