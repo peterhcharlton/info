@@ -11,9 +11,11 @@ grand_parent: Research tips
 Application for the 2021 IPEM Academic Early Career Award.
 {: .fs-6 .fw-300 }
 
-# Overview
+# Background
 
 In 2021, I was awarded an '[Academic Early Career Award](https://www.ipem.ac.uk/AboutIPEM/PrizesandAwards.aspx)' by the Institute of Physics and Engineering in Physics (IPEM). The text used in my application is provided below.
+
+# Application Text
 
 ## Please describe in up to 500 words what is the excellent contribution to academic practice that the candidate has made
 
