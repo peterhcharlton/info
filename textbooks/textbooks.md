@@ -10,7 +10,7 @@ This page provides details of some textbooks which I have found helpful in my re
 {: .fs-6 .fw-300 }
 
 * [Secondary analysis of electronic health records](https://doi.org/10.1007/978-3-319-43742-2): A textbook on using data generated during routine clinical care for scientific research. Includes case studies based on data from the MIMIC Database.
-* [Photoplethysmography](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0): A textbook on photoplethysmography, including chapters on 'Wearable Photoplethysmography Devices' and 'Photoplethysmography signal processing and synthesis', which will be made publicly available on [my website](https://peterhcharlton.github.io/publication/).
+* [Photoplethysmography](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0): A textbook on photoplethysmography, including chapters on ['Wearable Photoplethysmography Devices'](https://peterhcharlton.github.io/publication/wearable_ppg_chapter/) and ['Photoplethysmography signal processing and synthesis'](https://peterhcharlton.github.io/publication/ppg_sig_proc_chapter/), which are publicly available [here](https://peterhcharlton.github.io/post/ppg_book/).
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/)
 * [Advanced Methods and Tools for ECG Data Analysis](http://www.robots.ox.ac.uk/~gari/ecgbook.html)
 * [Snapshots of Haemodynamics](https://doi.org/10.1007/978-1-4419-6363-5): A concise overview of several aspects of haemodynamics
