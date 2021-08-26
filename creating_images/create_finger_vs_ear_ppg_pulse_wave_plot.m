@@ -5,7 +5,11 @@ function create_finger_vs_ear_ppg_pulse_wave_plot
 %
 %               create_finger_vs_ear_ppg_pulse_wave_plot
 %
-%	This file creates the image published in:
+%	This file creates the image at:
+%           https://commons.wikimedia.org/wiki/File:Finger_vs_ear_photoplethysmogram_(PPG)_pulse_waves.svg
+%   The image is available under the CC BY 4.0 licence.
+%
+%   The image was published in:
 %           Charlton P.H. and Marozas V.; 'Wearable photoplethysmography 
 %           devices'; in Photoplethysmography; Kyriacou P.A., Allen J., Eds.;
 %           Elsevier, 2021. https://peterhcharlton.github.io/publication/wearable_ppg_chapter/
