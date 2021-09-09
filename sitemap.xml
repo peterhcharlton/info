@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://peterhcharlton.github.io/info/</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms/beat-detectors.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms/ecg_processing.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms/parameter_estimation.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms/pulse_wave_analysis.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/RRest</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms/RRest/getting_started.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms/RRest/input_data.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms/sqis.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/datasets</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/datasets/capnobase</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/datasets/mesa</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/datasets/ppg-dalia</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/datasets/wesad</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/images</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/presentations</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/publishing</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/publishing/conferences.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/publishing/journals.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/publishing/manuscript_templates.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/publishing/repositories.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/publishing/reviewing.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/publishing/cover_letter.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tips</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tips/careers_resources.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tips/code_writing.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tips/ethics.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tips/grant_applications.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tips/public_engagement.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tools</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tools/devices.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tools/licences.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tools/project_guidelines.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tools/search_engines.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tools/software_packages.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/stats</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/stats/bootstrapping_confidence_intervals</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/textbooks</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/algorithms/RRest/further_details.html</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tips/past_applications/ipem_academic_early_career_award</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://peterhcharlton.github.io/info/tools/search_engines</loc>
+  <lastmod>2021-08-26T22:42:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
