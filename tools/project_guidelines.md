@@ -132,12 +132,7 @@ We will discuss your planned experiments when discussing your [Research Plan](#r
 _Weeks 3-6_
 
 Your project report will probably be the most important output from your project. It will enable others to learn about your work and make use of it, whether in research or clinical practice. I'd encourage you to structure your report using the standard structure of articles reporting scientific experiments (with some additional flexibility):
-- **Abstract:** (write this last) Here's a suggested template for writing the introduction (i.e. first part) of an abstract: (based on [this article](https://doi.org/10.3390/ecsa-7-08195), reproduced under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
-  - State the big problem, e.g. _"Atrial fibrillation (AF) is a common irregular heart rhythm associated with a five-fold increase in stroke risk."_
-  - State the smaller problem being tackled in this study,, e.g. _"It is often not recognised as it can occur intermittently and without symptoms. A promising approach to detect AF is to use a handheld electrocardiogram (ECG) sensor for screening. However, the ECG recordings must be manually reviewed, which is time-consuming and costly."_
-  - State the aim(s) of the study, e.g. _"Our aims were to: (i) evaluate the manual review workload; and (ii) evaluate strategies to reduce the workload."_
-
-  The remainder of the abstract should include the methods, results, and conclusion.
+- **Abstract:** (write this last) An Abstract provides a concise overview of a scientific study. Typically 200-300 words in length, it should give the reader an overview of the study, containing only the most important and essential points. The reader should be able to decide, based on the Abstract, whether they want to read the accompanying paper (or, in this case, the remainder of the Project Report). Further details on writing an abstract are provided below (see the Section on [Conference Submission](#conference-submission)).
 - **Introduction:** The introduction should:
   1. Motivate the work: Provide the motivation for both the broad topic of your work (e.g. identifying atrial fibrillation) and the specific issue that you have focused on (e.g. accurately identifying ECG recordings for clinical review). _Minimum length: 1 paragraph._
   2. Summarise the state-of-the-art: Describe the state-of-the-art in tackling the specific issue, making reference to key publications (perhaps 5-10 references). If there really is no prior art in tackling this particular issue, then refer to works which have tackled similar issues. _Minimum length: 1 paragraph._
@@ -169,3 +164,16 @@ _Week 6_
 
 ## Conference Submission
 _Post-project_
+
+Requirements for conference submissions vary between conferences, and can include submitting an abstract, a 1-page overview, or a short paper. Most conferences require an abstract, either as the sole requirement, or as part of a short paper.
+
+### Writing an abstract
+
+I suggest writing the abstract after finishing your Project Report, as it should summarise the entire study. An abstract can typically be structured to contain a few sentences on each of the following:
+- **Introduction:** Provide essential background to motivate the study, and state the study's aim. For instance, here's a suggested template for writing the introduction (i.e. first part) of an abstract: (based on [this article](https://doi.org/10.3390/ecsa-7-08195), reproduced under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/))
+  - State the big problem, e.g. _"Atrial fibrillation (AF) is a common irregular heart rhythm associated with a five-fold increase in stroke risk."_
+  - State the smaller problem being tackled in this study,, e.g. _"It is often not recognised as it can occur intermittently and without symptoms. A promising approach to detect AF is to use a handheld electrocardiogram (ECG) sensor for screening. However, the ECG recordings must be manually reviewed, which is time-consuming and costly."_
+  - State the aim(s) of the study, e.g. _"Our aims were to: (i) evaluate the manual review workload; and (ii) evaluate strategies to reduce the workload."_
+- **Methods:** A few sentences summarising the key aspects of the methods, which are essential to understand the study. For instance, it could include _"Participants used an ECG recorder four times per day for three weeks. The ECG signals were post-processed to identify heartbeats, calculate inter-beat intervals, and detect AF based on a Poincare analysis"_ . It would be less likely to state the exact device used to record the ECG signals, or the exact algorithm used to identify individual heartbeats, as these are not likely to be required to give an overall understanding of the study. The reader can always read the full paper if they want to find out specific details.
+- **Results:** State the key results which informed the conclusion(s).
+- **Conclusion:** State the main conclusion(s) in one or two sentences. Optionally, also state the significance of these conclusions. e.g. _"In conclusion, screening for AF using handheld ECG devices requires an average of 35 ECGs to be manually reviewed per AF diagnosis. Our new approach reduces this workload to 20 ECGs per AF diagnosis, with minimal reduction in sensitivity. This approach could be incorporated into existing screening approaches to reduce workload and thereby increase the cost-effectiveness of screening._"
