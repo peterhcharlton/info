@@ -21,4 +21,4 @@ parent: Algorithms
 
 ## Arterial blood pressure
 
-[Signal Quality Index for arterial blood pressure](https://www.physionet.org/physiotools/cardiac-output/code/2analyze/jSQI.m): written by James Sun.
+[Signal Quality Index for arterial blood pressure](https://physionet.org/content/cardiac-output/1.0.0/code/2analyze/jSQI.m): written by James Sun. NB: This also requires other scripts available [here](https://physionet.org/content/cardiac-output/1.0.0/code/).

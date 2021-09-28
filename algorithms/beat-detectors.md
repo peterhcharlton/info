@@ -24,11 +24,11 @@ parent: Algorithms
 | jqrs  | "Window-based peak energy detector" [1](https://doi.org/10.1088/0967-3334/36/8/1665) | Behar | Joachim Behar | [Matlab](https://github.com/alistairewj/peak-detector/blob/master/sources/qrs_detect2.m) ([also](https://github.com/alistairewj/peak-detector/blob/master/sources/run_qrsdet_by_seg_ali.m)) | GNU GPL |
 | eplimited  | Pan, Hamilton and Tompkins [1](http://doi.org/10.1109/TBME.1985.325532), [2](http://doi.org/10.1109/TBME.1986.325695) | Hamilton | Patrick Hamilton | [C](http://www.eplimited.com/software.htm) | GNU GPL |
 
-[This article](https://doi.org/10.1088/0967-3334/36/8/1665) provides a helpful overview of popular ECG beat detectors (see p.1668).
+[This article](https://doi.org/10.1088/0967-3334/36/8/1665) provides a helpful overview of popular ECG beat detectors (see p.1,668).
 
 ## Arterial Blood Pressure Beat Detectors
 
-[Arterial blood pressure beat detector](https://www.physionet.org/physiotools/cardiac-output/code/2analyze/wabp.m): A beat detector for use with the ABP signal, written by James Sun. Based on the code and algorithm developed by Wei Zong (ref: [1](http://doi.org/10.1109/CIC.2003.1291140) ).
+[Arterial blood pressure beat detector](https://physionet.org/content/cardiac-output/1.0.0/code/2analyze/wabp.m): A beat detector for use with the ABP signal, written by James Sun. Based on the code and algorithm developed by Wei Zong (ref: [1](http://doi.org/10.1109/CIC.2003.1291140) ). In case of interest, my modified version is available [here](https://github.com/peterhcharlton/info/blob/master/algorithms/wabp_pc.m).
 
 ## Photoplethysmogram (PPG) Beat Detectors
 
