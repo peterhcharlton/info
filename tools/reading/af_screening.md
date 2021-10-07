@@ -19,7 +19,8 @@ grand_parent: Research tools
 
 ## Atrial Fibrillation
 
-- [2020 AF Guidelines](https://doi.org/10.1093/eurheartj/ehaa612)
+- [2020 AF Guidelines](https://doi.org/10.1093/eurheartj/ehaa612): includes the 'diagnostic criteria for atrial fibrillation' in Section 3.2.
+- [Responsible for a fivefold increase in stroke risk](https://doi.org/0.1161/01.str.22.8.983)
 
 ## Screening Studies
 
@@ -92,6 +93,13 @@ Study Design:
 Zenicor's handheld ECG device:
 - [Website](https://zenicor.com/zenicor-ekg/), including [Press images](https://zenicor.com/press-material/)
 
+AliveCor's Kardia Mobile device:
+- [Website](https://www.kardia.com/)
+
+Withings wrist-watch devices:
+- [Move-ECG](https://www.withings.com/uk/en/move-ecg)
+- [ScanWatch](https://www.withings.com/de/en/scanwatch)
+
 Cardiolund's ECG Parser algorithm:
 - [Website](https://cardiolund.com/ecg-parser/)
 - [Initial Design](http://cinc.mit.edu/archives/2012/pdf/0193.pdf)
@@ -99,10 +107,11 @@ Cardiolund's ECG Parser algorithm:
 
 Context:
 - [Healthcare provider views on devices](https://doi.org/10.1016/j.cvdhj.2020.06.002)
+- [Systematic review and economic evaluation of lead-I ECG devices](https://doi.org/10.3310/hta24030)
 
 ## Context
 
-### Single-time screening
+### Single-time point screening
 
 - [Estimated stroke risk, yield, and number needed to screen for atrial fibrillation detected through single time screening](https://doi.org/10.1371/journal.pmed.1002903)
 
