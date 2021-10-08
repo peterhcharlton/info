@@ -90,22 +90,27 @@ Study Design:
 
 ## Devices
 
-Zenicor's handheld ECG device:
+### Zenicor's handheld ECG device
+
 - [Website](https://zenicor.com/zenicor-ekg/), including [Press images](https://zenicor.com/press-material/)
 
-AliveCor's Kardia Mobile device:
+### AliveCor's Kardia Mobile device
+
 - [Website](https://www.kardia.com/)
 
-Withings wrist-watch devices:
+### Withings wrist-watch devices
+
 - [Move-ECG](https://www.withings.com/uk/en/move-ecg)
 - [ScanWatch](https://www.withings.com/de/en/scanwatch)
 
-Cardiolund's ECG Parser algorithm:
+### Cardiolund's ECG Parser algorithm
+
 - [Website](https://cardiolund.com/ecg-parser/)
 - [Initial Design](http://cinc.mit.edu/archives/2012/pdf/0193.pdf)
 - [Validation](https://doi.org/10.1093/europace/euw286)
 
-Context:
+### Context
+
 - [Healthcare provider views on devices](https://doi.org/10.1016/j.cvdhj.2020.06.002)
 - [Systematic review and economic evaluation of lead-I ECG devices](https://doi.org/10.3310/hta24030)
 
