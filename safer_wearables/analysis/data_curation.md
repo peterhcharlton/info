@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Curation
-parent: Signal Processing
+parent: Analysis
 grand_parent: SAFER Wearables
 ---
 
