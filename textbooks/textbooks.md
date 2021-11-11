@@ -25,6 +25,7 @@ This page provides details of some textbooks which I have found helpful in my re
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/)
 * [Engineering better care](https://www.raeng.org.uk/publications/reports/engineering-better-care): A report on "a systems approach to health and care design and continuous improvement".
 * [Biomedical Instrumentation Lecture Notes](https://www.robots.ox.ac.uk/~neil/teaching/lectures/med_elec/): A helpful course introducing several types of physiological measurement (ECG, EEG, respiration, pulse oximetry and blood pressure).
+* [Digital Signal Processing](https://berndporr.github.io/digital_signal_processing/): Includes an introduction to using Python.
 
 ## Physiology
 

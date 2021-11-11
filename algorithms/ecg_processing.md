@@ -35,3 +35,7 @@ See [here](./beat-detectors.html#electrocardiogram-ecg-beat-detectors)
 ## Simulating ECG signals with arrhythmias
 
 See [here](https://physionet.org/content/ecg-ppg-simulator-arrhythmia/1.3.0/)
+
+## Deep Learning
+
+[This blog post](https://towardsdatascience.com/detecting-heart-arrhythmias-with-deep-learning-in-keras-with-dense-cnn-and-lstm-add337d9e41f) presents a method for 'detecting heart arrhythmias with deep learning'. It includes an accompanying [Jupyter notebook](https://github.com/andrewwlong/deep_arrhythmias/blob/master/Arrythmia%20Project.ipynb), providing the Python code used to perform the analysis on openly available data.

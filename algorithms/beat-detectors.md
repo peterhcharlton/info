@@ -19,10 +19,17 @@ parent: Algorithms
 
 | Name  | Algorithm | Algorithm Design | Implementation | Format | Licence |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| rpeakdetect | Based on Pan, Hamilton and Tompkins [1](http://doi.org/10.1109/TBME.1985.325532), [2](http://doi.org/10.1109/TBME.1986.325695) | Pan, Hamilton, Tompkins, Clifford | Gari Clifford | [Matlab](http://www.mit.edu/~gari/CODE/ECGtools/ecgBag/rpeakdetect.m) | GNU GPL |
+| rpeakdetect | Based on Pan, Hamilton and Tompkins [1](https://doi.org/10.1109/TBME.1985.325532), [2](https://doi.org/10.1109/TBME.1986.325695) | Pan, Hamilton, Tompkins, Clifford | Gari Clifford | [Matlab](http://www.mit.edu/~gari/CODE/ECGtools/ecgBag/rpeakdetect.m) | GNU GPL |
 | gqrs  | "QRS matched filter with a custom- built set of heuristics" [1](https://doi.org/10.1088/0967-3334/36/8/1665) | Moody | George Moody, Ikaro Silva | [Matlab](https://www.physionet.org/content/wfdb-matlab/0.10.0/mcode/gqrs.m), [C](https://www.physionet.org/physiotools/wag/gqrs-1.htm) | GNU GPL |
 | jqrs  | "Window-based peak energy detector" [1](https://doi.org/10.1088/0967-3334/36/8/1665) | Behar | Joachim Behar | [Matlab](https://github.com/alistairewj/peak-detector/blob/master/sources/qrs_detect2.m) ([also](https://github.com/alistairewj/peak-detector/blob/master/sources/run_qrsdet_by_seg_ali.m)) | GNU GPL |
-| eplimited  | Pan, Hamilton and Tompkins [1](http://doi.org/10.1109/TBME.1985.325532), [2](http://doi.org/10.1109/TBME.1986.325695) | Hamilton | Patrick Hamilton | [C](http://www.eplimited.com/software.htm) | GNU GPL |
+| eplimited  | Pan, Hamilton and Tompkins [1](https://doi.org/10.1109/TBME.1985.325532), [2](http://doi.org/10.1109/TBME.1986.325695) | Hamilton | C: Patrick Hamilton; Python: Luis Howell, Bernd Porr | [C](http://www.eplimited.com/software.htm), [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
+| christov  | Christov [1](https://doi.org/10.1186/1475-925X-3-28) | Christov | Luis Howell, Bernd Porr | [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
+| engzee  | Engelse & Zeelenberg | Engelse & Zeelenberg | C: George Moody; Python: Luis Howell, Bernd Porr | [c](https://archive.physionet.org/physiotools/wfdb/app/sqrs.c), [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
+| pan_tompkins | Pan and Tompkins [1](http://doi.org/10.1109/TBME.1985.325532) | Pan and Tompkins | Luis Howell, Bernd Porr | [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
+| swt | Kalidas and Tamil [1](https://doi.org/10.1186/1475-925X-3-28) | Kalidas and Tamil | Luis Howell, Bernd Porr | [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
+| two_average | Elgendi _et al._ [1](https://doi.org/10.5220/0002742704280431) | Elgendi _et al._ | Luis Howell, Bernd Porr | [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
+| matched_filter | Based on Pan and Tompkins [1](https://doi.org/10.1109/TBME.1985.325532) | Luis Howell, Bernd Porr | Luis Howell, Bernd Porr | [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
+| wqrs | Zong _et al._ [1](https://doi.org/10.1109/CIC.2003.1291261) | Zong _et al._ | C: Zong, Moody; python: Zong, Moody, Luis Howell, Bernd Porr | [c](https://archive.physionet.org/physiotools/wfdb/app/wqrs.c), [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
 
 [This article](https://doi.org/10.1088/0967-3334/36/8/1665) provides a helpful overview of popular ECG beat detectors (see p.1,668).
 
@@ -33,4 +40,19 @@ parent: Algorithms
 ## Photoplethysmogram (PPG) Beat Detectors
 
 [PPG beat detector](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v3.0/Algorithms/extract_resp_sig/feat_based_extraction/IMS_peak_detector/adaptPulseSegment.m): A beat detector for use with the PPG signal, written by Marco Pimentel. Based on the algorithm described in Karlen et al (ref: [1](http://doi.org/10.1109/EMBC.2012.6346628) ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
