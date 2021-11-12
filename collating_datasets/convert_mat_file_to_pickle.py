@@ -8,6 +8,11 @@
 #
 #    file    -  a pickle file
 #
+#  Preparation:
+#
+#    Modify this Python script by inserting the 'file_name' of the file to be converted
+#    (and ensure that this script is in the same folder as that file)
+#
 #  Acknowledgment: this script is inspired by the scripts provided at:
 #
 #   https://www.galaxysofts.com/new/python-pickle-file-to-matlab-mat-file-converter/
@@ -28,20 +33,22 @@ file_name = "sig_sample"
 source_name = file_name + ".mat"
 dest_name = file_name + ".pkl"
 
-##### Create a matlab file containing a sine wave
-t = np.arange(0, 20, 0.1)
-a = np.sin(t)
-scipy.io.savemat(source_name, mdict={'sig': a})
-
-# Load Matlab file	
+create_mat_file = 1
+if create_mat_file:
+    ##### Create a matlab file containing a sine wave
+    t = np.arange(0, 20, 0.1)
+    a = np.sin(t)
+    scipy.io.savemat(source_name, mdict={'sig': a})
+    
+##### Load Matlab file	
 b = scipy.io.loadmat(source_name)
-b = b['sig'][0]
+b = b['sig']    # this is used to load a Matlab variable called 'sig', which in this case is a row vector.
+b = b[0,:]
 
 # Plot the Matlab data
-plt.plot(t, b, label='Original data')
+plt.plot(b, label='Original data')
 plt.ylabel('value')
 plt.xlabel('Time (s)')
-plt.xlim(min(t), max(t))
 
 # Save it as a pickle file
 with open(dest_name, 'wb') as f:
@@ -56,7 +63,8 @@ if do_check:
         c = pickle.load(f)
         
     # plot the loaded data
-    plt.plot(t, 2+c, label='Re-loaded data (shifted for clarity)')
+    offset = (max(c)-min(c))/5
+    plt.plot(offset+c, label='Re-loaded data (shifted for clarity)')
     plt.ylabel('value')
     plt.xlabel('Time (s)')
     plt.legend()
