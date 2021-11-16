@@ -36,3 +36,4 @@ This page provides details of some textbooks which I have found helpful in my re
 ## Research Methods
 
 * [The Turing Way handbook](https://the-turing-way.netlify.app/welcome.html): The Turing Way handbook to reproducible, ethical and collaborative data science.
+* [Twitter for Scientists](https://t4scientists.com/): I haven't read it, but it looks helpful at first glance.
