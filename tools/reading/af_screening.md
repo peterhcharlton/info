@@ -127,3 +127,4 @@ Study Design:
 ### Reviews of screening for AF
 - [Population-based screening for atrial fibrillation](https://doi.org/10.1161/CIRCRESAHA.120.316341) - see Table 4 for a list of ongoing studies.
 - [Screening for atrial fibrillation: A call for evidence](https://doi.org/10.1093/eurheartj/ehz834)
+- [Screening for atrial fibrillation](https://doi.org/10.1161/CIRCULATIONAHA.116.026693)
