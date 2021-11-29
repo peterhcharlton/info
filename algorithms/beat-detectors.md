@@ -31,7 +31,7 @@ parent: Algorithms
 | matched_filter | Based on Pan and Tompkins [1](https://doi.org/10.1109/TBME.1985.325532) | Luis Howell, Bernd Porr | Luis Howell, Bernd Porr | [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
 | wqrs | Zong _et al._ [1](https://doi.org/10.1109/CIC.2003.1291261) | Zong _et al._ | C: Zong, Moody; python: Zong, Moody, Luis Howell, Bernd Porr | [c](https://archive.physionet.org/physiotools/wfdb/app/wqrs.c), [python](https://pypi.org/project/py-ecg-detectors/) | GNU GPL |
 
-[This article](https://doi.org/10.1088/0967-3334/36/8/1665) provides a helpful overview of popular ECG beat detectors (see p.1,668).
+[This article](https://doi.org/10.1088/0967-3334/36/8/1665) provides a helpful overview of popular ECG beat detectors (see p.1,668), and the performance of ECG beat detectors is assessed in [this article](https://ieeexplore.ieee.org/document/7043053) and [this article](https://doi.org/10.1155/2018/9050812).
 
 ## Arterial Blood Pressure Beat Detectors
 
