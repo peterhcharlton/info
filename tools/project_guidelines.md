@@ -52,6 +52,7 @@ I will be happy to recommend some suitable articles.
 _Week 1_
 
 It is good to firstly think about what you would like to learn from the project. You may find it helpful to list some learning objectives, which could include:
+- Being able to explain the clinical background to the problem
 - Gaining experience across each of the different stages of a research project
 - Developing particular research skills (_e.g._ writing a literature review, using statistical analysis techniques, writing code)
 - Preparing an abstract suitable for conference submission
