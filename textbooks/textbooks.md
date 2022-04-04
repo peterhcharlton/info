@@ -14,6 +14,7 @@ This page provides details of some textbooks which I have found helpful in my re
 * [Secondary analysis of electronic health records](https://doi.org/10.1007/978-3-319-43742-2): A textbook on using data generated during routine clinical care for scientific research. Includes case studies based on data from the MIMIC Database.
 * [Photoplethysmography](https://www.elsevier.com/books/photoplethysmography/kyriacou/978-0-12-823374-0): A textbook on photoplethysmography, including chapters on ['Wearable Photoplethysmography Devices'](https://peterhcharlton.github.io/publication/wearable_ppg_chapter/) and ['Photoplethysmography signal processing and synthesis'](https://peterhcharlton.github.io/publication/ppg_sig_proc_chapter/), which are publicly available [here](https://peterhcharlton.github.io/post/ppg_book/).
 * [Advanced Methods and Tools for ECG Data Analysis](http://www.robots.ox.ac.uk/~gari/ecgbook.html)
+* [The Handbook of Cuffless Blood Pressure Monitoring](https://doi.org/10.1007/978-3-030-24701-0)
 
 ## Statistics
 
@@ -26,6 +27,10 @@ This page provides details of some textbooks which I have found helpful in my re
 * [Engineering better care](https://www.raeng.org.uk/publications/reports/engineering-better-care): A report on "a systems approach to health and care design and continuous improvement".
 * [Biomedical Instrumentation Lecture Notes](https://www.robots.ox.ac.uk/~neil/teaching/lectures/med_elec/): A helpful course introducing several types of physiological measurement (ECG, EEG, respiration, pulse oximetry and blood pressure).
 * [Digital Signal Processing](https://berndporr.github.io/digital_signal_processing/): Includes an introduction to using Python.
+
+## Data Science
+
+* [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
 ## Physiology
 

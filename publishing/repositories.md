@@ -5,15 +5,6 @@ parent: Publishing Resources
 ---
 
 # Repositories
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 I have used these data repositories to make resources publicly available:
 

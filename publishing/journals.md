@@ -16,6 +16,7 @@ I have found the following journals to be highly relevant in my research into ph
 * [IEEE Reviews in Biomedical Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4664312/)
 * [Annals of Biomedical Engineering](http://www.springer.com/biomed/journal/10439)
 * [Biomedical Signal Processing and Control](https://www.journals.elsevier.com/biomedical-signal-processing-and-control/)
+* [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine)
 * [Medical Engineering & Physics](https://www.journals.elsevier.com/medical-engineering-and-physics)
 * [Journal of Clinical Monitoring and Computing](http://www.springer.com/medicine/anesthesiology/journal/10877)
 * [Medical & Biological Engineering and Computing](https://link.springer.com/journal/11517)

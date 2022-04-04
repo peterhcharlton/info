@@ -5,15 +5,6 @@ parent: Publishing Resources
 ---
 
 # Conferences
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 * [Medical Physics and Engineering Conference, Institute of Physics and Engineering in Medicine (IPEM)](https://www.ipem.ac.uk/conferencesevents/mpec.aspx)
 
