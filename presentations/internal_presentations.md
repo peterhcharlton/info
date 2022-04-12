@@ -43,6 +43,16 @@ parent: Presentations
 
 ---
 
+### Developing software to monitor respiratory rate using wearable sensors
+
+[Download powerpoint](https://zenodo.org/record/6424964/files/2022_Developing_RR_software.pptx?download=1){: .btn .btn-blue }
+[Further details](https://peterhcharlton.github.io/talk/developing-software-to-monitor-respiratory-rate-using-wearable-sensors/){: .btn .btn-purple }
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){: .btn .btn-green }
+
+![developing rr software slides](./developing_rr_software_slides.png)
+
+---
+
 ### The 'Respiratory rate algorithms for wearables' project 
 
 [Download powerpoint](https://zenodo.org/record/4758898/files/RR%20algorithms%20for%20wearables%20intro.pptx?download=1){: .btn .btn-blue }

@@ -27,6 +27,7 @@ This page provides details of some textbooks which I have found helpful in my re
 * [Engineering better care](https://www.raeng.org.uk/publications/reports/engineering-better-care): A report on "a systems approach to health and care design and continuous improvement".
 * [Biomedical Instrumentation Lecture Notes](https://www.robots.ox.ac.uk/~neil/teaching/lectures/med_elec/): A helpful course introducing several types of physiological measurement (ECG, EEG, respiration, pulse oximetry and blood pressure).
 * [Digital Signal Processing](https://berndporr.github.io/digital_signal_processing/): Includes an introduction to using Python.
+* [Introduction To Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition)
 
 ## Data Science
 
