@@ -31,7 +31,7 @@ This page provides details of some textbooks which I have found helpful in my re
 
 ## Data Science
 
-* [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)
+* [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/): See also the [author's website](https://www.riinu.me/).
 
 ## Physiology
 

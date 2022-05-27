@@ -25,3 +25,4 @@ I have found the following journals to be highly relevant in my research into ph
 * [Journal of Clinical Monitoring and Computing](http://www.springer.com/medicine/anesthesiology/journal/10877)
 * [JRSM Cardiovascular Disease](https://journals.sagepub.com/home/cvd): see also the upcoming [Special Issue](https://journals.sagepub.com/page/cvd/call-for-papers/waveform-analysis) on Advances in Waveform Analysis for Understanding Cardiovascular Function.
 * [MDPI Sensors](http://www.mdpi.com/journal/sensors)
+* [The Journal of Open Source Software](https://joss.theoj.org/)
