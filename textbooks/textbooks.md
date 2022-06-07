@@ -33,6 +33,11 @@ This page provides details of some textbooks which I have found helpful in my re
 
 * [R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/): See also the [author's website](https://www.riinu.me/).
 
+## Coding
+
+* [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR): A series of YouTube videos providing introductory tutorials to Git and GitHub.
+* [Prodigious Python](https://prodigiouspython.github.io/ProdigiousPython/): An introduction to Python
+
 ## Physiology
 
 * [Snapshots of Haemodynamics](https://doi.org/10.1007/978-1-4419-6363-5): A concise overview of several aspects of haemodynamics
