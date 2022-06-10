@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Mail Pack Preparation
+title: 2.07 Participation - Training Participants
 parent: SOPs
-has_children: false
 grand_parent: SAFER Wearables
+has_children: false
 ---
 
-# Mail Package Preparation
+# Training Participants
 {: .no_toc }
 
-This page describes how to put together a Mail Pack to be sent to a participant.
+This page describes processes for training participants.
 {: .fs-6 .fw-300 }
 
 ## Table of contents

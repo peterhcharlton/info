@@ -10,5 +10,3 @@ has_children: true
 
 This page details the Standard Operating Procedures (SOPs) being used in the SAFER Wearables Study.
 {: .fs-6 .fw-300 }
-
----

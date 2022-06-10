@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Device Post-Participation
+title: 3.02 Post-Participation - Receiving Devices
 parent: SOPs
-has_children: false
 grand_parent: SAFER Wearables
+has_children: false
 ---
 
-# Device Post-Participation
+# Receiving Devices
 {: .no_toc }
 
 This page provides details of what to do when devices are returned to us from participants of the SAFER Wearables Study.

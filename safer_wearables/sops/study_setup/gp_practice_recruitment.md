@@ -1,9 +1,9 @@
 ---
 layout: default
-title: GP Practice Recruitment
+title: 1.02 Study Setup - GP Practice Recruitment
 parent: SOPs
-has_children: false
 grand_parent: SAFER Wearables
+has_children: false
 ---
 
 # GP Practice Recruitment
@@ -20,20 +20,19 @@ This page provides details of how GP Practices are recruited to participate in t
 
 ---
 
-## GP Practice Recruitment
-
 The calculations behind the figures in this section are provided [here](https://github.com/peterhcharlton/safer-wearables/blob/main/planning/safer_wearables_planning.ipynb).
 
-### Identifying potential GP Practices
+## Identifying potential GP Practices
 
 GP Practices must meet the following criteria to participate in the study:
-1. Part of a CRN region participating in the study.
-2. Taken part in the SAFER Programme, with screening completed.
+1. Taken part in the SAFER Programme, with screening completed.
+2. Part of a CRN region participating in the SAFER Wearables study.
 3. Sufficient SAFER participants at the practice:
-   - &#8805; 10 AF participants
-   - &#8805; 35 non-AF participants
+   - &#8805; 45 participants, including
+   - &#8805; 6 AF participants
 
-### GP Practice Recruitment
+Potential GP Practices can be identified automatically using the `SAFER_data_analysis.m (or similar)` script.
 
-_Need to insert details of:_
-- _The information that will be provided to practices._
+## GP Practice Recruitment
+
+GP Practices will be recruited through CRNs. Potential practices will be provided with the _SAFER Wearables PIC Agreement_.
