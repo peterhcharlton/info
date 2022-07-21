@@ -6,7 +6,7 @@ parent: Research tools
 
 ## Licences
 
-I find [choosealicense.com](https://choosealicense.com/) a useful resource for identifying suitable licences.
+I find [choosealicense.com](https://choosealicense.com/) a useful resource for identifying suitable licences. Also, [this paper](https://doi.org/10.1109/MS.2010.5) provides a helpful overview of the process of 'Choosing an open source license'.
 
 This page provides a few licences which I have found helpful during my research:
 
