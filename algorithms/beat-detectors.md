@@ -42,7 +42,7 @@ parent: Algorithms
 
 ## Photoplethysmogram (PPG) Beat Detectors
 
-[PPG beat detector](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v3.0/Algorithms/extract_resp_sig/feat_based_extraction/IMS_peak_detector/adaptPulseSegment.m): A beat detector for use with the PPG signal, written by Marco Pimentel. Based on the algorithm described in Karlen et al (ref: [1](http://doi.org/10.1109/EMBC.2012.6346628) ).
+The [PPG-beats](https://ppg-beats.readthedocs.io/en/latest/) toolbox contains several open-source PPG beat detectors.
 
 
 
