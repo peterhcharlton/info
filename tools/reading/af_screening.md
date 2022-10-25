@@ -60,8 +60,16 @@ Websites:
 - [SAFER Feasibility Study registration](https://www.isrctn.com/ISRCTN16939438)
 - [SAFER Trial registration](https://www.isrctn.com/ISRCTN72104369)
 
-Results:
+Protocols:
+- [SAFER Trial Pilot Study](https://doi.org/10.1136/bmjopen-2022-065066)
+
+Papers:
+- [Embedding qualitative research in trials](https://doi.org/10.1186/s13063-022-06308-7)
+- [Why do people take part in atrial fibrillation screening?](https://doi.org/10.1136/bmjopen-2021-051703)
+
+Engineering Analyses:
 - [Algorithm tags and number of reviewers](https://doi.org/10.3390/ecsa-7-08195): initial results
+- [Prioritising ECGs for manual review](https://doi.org/10.1109/EMBC48229.2022.9871092)
 
 ### LOOP Study
 
@@ -80,6 +88,11 @@ Results:
 
 Results:
 - [Screening](https://doi.org/10.1161/CIRCULATIONAHA.117.030583)
+
+### PULsE-AI Trial
+
+Results:
+- [Screening](https://doi.org/10.1093/ehjdh/ztac009)
 
 ## AF Detection Studies
 

@@ -13,7 +13,7 @@ google-site-verification: google49454546bc54e329.html
 # logo: "/icon.png"
 
 remote_theme: pmarsceill/just-the-docs
-# theme: just-the-docs # uncomment when previewing locally, comment out when uploading to GitHub.
+theme: just-the-docs # uncomment when previewing locally, comment out when uploading to GitHub.
 
 search:
   # Split pages into sections that can be searched individually
