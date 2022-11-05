@@ -22,8 +22,11 @@ This page provides details of how devices are initially setup for use in the SAF
 
 ## Mobile Phone
 
+_These instructions are based on the assumption that the phone is brand new. If not, then a factory reset should be performed before carrying out these instructions._
+
 - **Initial turning on**:
    - select 'English (UK) language;
+   - don't insert a SIM card;
    - connect to WiFi;
    - allow to check for updates;  
    - don't copy apps and data;  
