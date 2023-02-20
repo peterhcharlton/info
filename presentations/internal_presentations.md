@@ -111,7 +111,7 @@ parent: Presentations
 
 [Download powerpoint](https://zenodo.org/record/6826343/files/wearable_ppg_embc_2022.pptx?download=1){: .btn .btn-blue }
 [Further details](https://peterhcharlton.github.io/talk/wearable-photoplethysmography-devices-for-cardiovascular-monitoring/){: .btn .btn-purple }
-[CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/){: .btn .btn-green }
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){: .btn .btn-green }
 
 ![wearable photoplethysmography devices slides](./wearable_photoplethysmography_devices_slides.png)
 
