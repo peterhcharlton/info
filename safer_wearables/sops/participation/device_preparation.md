@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.04 Participation - Device Preparation
+title: 3.01 Participation - Device Preparation
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false

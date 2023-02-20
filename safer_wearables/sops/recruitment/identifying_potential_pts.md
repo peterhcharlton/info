@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.01 Participation - Identifying Potential Participants
+title: 2.01 Recruitment - Identifying Potential Participants
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false

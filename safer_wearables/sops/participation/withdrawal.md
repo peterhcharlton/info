@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.10 Participation - Withdrawal
+title: 3.07 Participation - Withdrawal
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false

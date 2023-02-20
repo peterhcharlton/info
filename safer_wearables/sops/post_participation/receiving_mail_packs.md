@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3.01 Post-Participation - Receiving Mail Packs
+title: 4.01 Post-Participation - Receiving Mail Packs
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false

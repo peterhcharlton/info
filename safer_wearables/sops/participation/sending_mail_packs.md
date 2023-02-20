@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.06 Participation - Sending Mail Packs
+title: 3.03 Participation - Sending Mail Packs
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false

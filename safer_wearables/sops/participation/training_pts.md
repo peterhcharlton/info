@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.07 Participation - Training Participants
+title: 3.04 Participation - Training Participants
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false

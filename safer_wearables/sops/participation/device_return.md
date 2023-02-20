@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.09 Participation - Device Return
+title: 3.06 Participation - Device Return
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false

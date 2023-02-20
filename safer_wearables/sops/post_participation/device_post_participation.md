@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3.02 Post-Participation - Receiving Devices
+title: 4.02 Post-Participation - Receiving Devices
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false
