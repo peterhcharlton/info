@@ -44,33 +44,44 @@ Firstly, arrangements are put in place with the relevant CRN(s) where practices 
 - Providing a study summary to help with the recruitment of GP Practices.
 - Specifying potential GP Practices
 - Agreeing costings (including Service Support Costs and Research Costs Part B, which are paid by the CRN) for a specified number of sites.
-- Developing a PIC agreement (which needs to be approved by the Sponsor and the NHS R&D department).
+- Developing a PIC agreement (which needs to be approved by the Sponsor and the NHS R&D department):
+  - using the appropriate template [here](https://www.myresearchproject.org.uk/help/hlptemplatesfor.aspx#PIC-contracting).
+  - inserting the required details, as detailed at the top of the document
 
 ### Receiving EOIs
 
-The CRN contacts GP Practices, and then Expressions of Interest (EOIs) are passed on by the CRN, and include contact details for the relevant Practices. 
+The CRN contacts GP Practices, and then Expressions of Interest (EOIs) are passed on by the CRN, and include contact details for the relevant Practices. Record details of EOIs in `safer_wearables_gp_practice_recruitment`.
 
 ### Responding to EOIs
 
-An initial response email is sent to EOIs, including:
+Fill in the Practice-specific details in the PIC agreement (currently v.1.1), as detailed in the instruction pages (then deleting the instruction pages).
+
+Then send an initial response email to EOIs (based on template `GP_Practice_responding_to_EOI.emltpl`, including:
 - A thank you
 - The broader topic
 - An outline of the whole study
 - The role of the Practice within the study, including what is required of them
 - Study documentation (protocol, PIS, consent form, invitation letter)
-- PIC agreement
+- PIC agreement (after filling in Practice-specific details): ask the Practice to review any details entered, and fill in the remaining fields.
 - HRA approvals
 - Next steps: confirming point of contact, site initiation visit.
 
 ### Site initiation visit
-- Remote, using presentation
+
+Prepare for the site initiation visit (SIV) by:
+- Reviewing any communications with the GP Practice, noting any outstanding queries, and progress on the PIC agreement.
+- Decide on potential times for the Practice to take part.
+- Inserting the Practice's point of contact in the presentation slides.
+
+Meet remotely with the GP Practice, using the `SAFER_Wearables_SIV.pptx` presentation. The presentation covers:
+- Learning objectives
+- How this study fits into the broad topic, and the SAFER Programme
+- Overview of the study (including details of what participants are asked to do, and including that any enquiries from participants should be referred to the study team).
+- What GP Practices are asked to do (including that no health-related data will be returned to participants or practices)
+- Inclusion and exclusion criteria
+- Next steps: point of contact, PIC agreement, deciding on mutually convenient dates.
 
 ### Approvals
 - Complete paperwork: PIC agreement
 - Get approval from sponsor
 - Inform practice of approval
-
-## Inviting participants
-
-- Set up a docmail account for this GP Practice.
-- Arrange a convenient time for a remote meeting to send invitation letters.
