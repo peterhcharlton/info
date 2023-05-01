@@ -107,6 +107,16 @@ parent: Presentations
 
 ---
 
+### Wearable devices for health monitoring 
+
+[Download powerpoint](https://zenodo.org/record/7301839/files/wearable_devices_health_monitoring_2022.pptx?download=1){: .btn .btn-blue }
+[Further details](https://peterhcharlton.github.io/talk/wearable-devices-for-health-monitoring/){: .btn .btn-purple }
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){: .btn .btn-green }
+
+![wearable devices health monitoring slides](./wearable_devices_health_monitoring_slides.png)
+
+---
+
 ### Wearable photoplethysmography devices for cardiovascular monitoring 
 
 [Download powerpoint](https://zenodo.org/record/6826343/files/wearable_ppg_embc_2022.pptx?download=1){: .btn .btn-blue }
