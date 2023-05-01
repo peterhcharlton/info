@@ -107,6 +107,16 @@ parent: Presentations
 
 ---
 
+### Multimodal signal processing and learning for wearables
+
+[Download powerpoint](https://zenodo.org/record/7734871/files/multimodal_sig_proc_2023.pptx?download=1){: .btn .btn-blue }
+[Further details](https://peterhcharlton.github.io/talk/multimodal-signal-processing-and-learning-for-wearables/){: .btn .btn-purple }
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){: .btn .btn-green }
+
+![Multimodal signal processing and learning for wearables slides](./multimodal_sig_proc_wearables_slides.png)
+
+---
+
 ### Wearable devices for health monitoring 
 
 [Download powerpoint](https://zenodo.org/record/7301839/files/wearable_devices_health_monitoring_2022.pptx?download=1){: .btn .btn-blue }
