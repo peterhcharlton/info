@@ -29,9 +29,15 @@ GP Practices must meet the following criteria to participate in the study:
    - &#8805; 45 participants, including
    - &#8805; 6 AF participants
 
-Potential GP Practices can be identified automatically using the `SAFER_data_analysis.m (or similar)` script.
+_NB: The calculations behind these figures are provided [here](https://github.com/peterhcharlton/safer-wearables/blob/main/planning/safer_wearables_planning.ipynb)._
 
-_NB: The calculations behind the figures in this section are provided [here](https://github.com/peterhcharlton/safer-wearables/blob/main/planning/safer_wearables_planning.ipynb)._
+Potential GP Practices can be identified automatically using the `SAFER_data_analysis.m (or similar)` script. To do so:
+- At the top of the script, set the SAFER phase to the phase of interest (_e.g. 'feas1').
+- Run the script, including the `extract_dataset_characteristics` function.
+- When the `extract_dataset_characteristics` function is run, it will output the number of AF participants for each practice, and identify those practices which have the required number of AF participants.
+- Copy down the original IDs for the GP Practices with the required number of AF participants.
+- Use the `safer_gp_practices2` document as a key to convert these IDs into the GP Practice names (and CRN regions).
+- Only retain those practices who are affiliated to a CRN region from whom practices are being recruited.
 
 ## Recruiting GP Practices
 
@@ -83,5 +89,3 @@ Meet remotely with the GP Practice, using the `SAFER_Wearables_SIV.pptx` present
 
 ### Approvals
 - Complete paperwork: PIC agreement
-- Get approval from sponsor
-- Inform practice of approval
