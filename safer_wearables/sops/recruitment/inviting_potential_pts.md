@@ -66,7 +66,7 @@ GP Practices prepare mailings on Docmail as follows:
     - The delivery service is 'standard delivery'
   - Under 'Add documents':
     - Add a Mail pack from the library
-    - Select either `SAFER Wearables Mail Pack v.1.0`, or if using headed paper, then select the file specific to your practice named `SAFER Wearables Mail Pack v.1.0 - _GP Practice Name_`.
+    - Select either `SAFER Wearables Mail Pack v.1.0`, or if using headed paper, then select `SAFER Wearables Mail Pack v.1.0 - <GP Practice Name>`.
     - This should result in five documents.
   - Under 'Add addresses':
     - Select 'Upload addresses'
