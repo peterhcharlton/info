@@ -32,13 +32,14 @@ The following steps will be taken to prepare GP Practices to invite potential pa
 
 GP Practices will use the list of potential participants provided by the study team to identify potential participants to be invited. Not all the potential participants on the list will be eligible for the SAFER Wearables Study. GP Practices will identify potential participants to be invited by removing those potential participants who are:
 - no longer a patient at the practice, or
-- receiving palliative care, or- known to have died, or 
+- receiving palliative care, or
+- known to have died, or 
 - identified as living in non-private accommodation (including a nursing, care, or residential home).
 Only the remaining potential participants will be invited. The refined list will not be shared with the study team.
 
 ## Preparing a list of addresses
 
-Next, GP Practices insert the details of the potential participants to be invited into the template Docmail Address List (named _'<GP Practice>_Docmail_AddressList'_). This is done by replacing each of the entries for rows 3-44 in the following columns:
+Next, GP Practices insert the details of the potential participants to be invited into the template Docmail Address List (named _'GP Practice_Docmail_AddressList'_). This is done by replacing each of the entries for rows 3-44 in the following columns:
 - First name
 - Surname _(NB: don't use 'Full name')_
 - Address 1
@@ -61,11 +62,11 @@ GP Practices prepare mailings on Docmail as follows:
 - In docmail, create a mailing as follows:
   - Under 'Mailing options':
     - The product type is 'A4 document'
-    - The mailing name is 'SAFER Wearables <GP Practice Name>' (where '<GP Practice Name>' is replaced with the practice name)
+    - The mailing name is 'SAFER Wearables _GP Practice Name_' (where '_GP Practice Name_' is replaced with the practice name)
     - The delivery service is 'standard delivery'
   - Under 'Add documents':
     - Add a Mail pack from the library
-    - Select either `SAFER Wearables Mail Pack v.1.0`, or if using headed paper, then select `SAFER Wearables Mail Pack v.1.0 - <GP Practice Name>`.
+    - Select either `SAFER Wearables Mail Pack v.1.0`, or if using headed paper, then select the file specific to your practice named `SAFER Wearables Mail Pack v.1.0 - _GP Practice Name_`.
     - This should result in five documents.
   - Under 'Add addresses':
     - Select 'Upload addresses'
