@@ -30,16 +30,17 @@ The following steps are taken in preparation for GP Practices inviting potential
 
 ## Identifying potential participants to be invited
 
-GP Practices will use the list of potential participants provided by the study team to identify potential participants to be invited. Not all the potential participants on the list will be eligible for the SAFER Wearables Study. GP Practices will identify potential participants to be invited by removing those potential participants who are:
+GP Practices use the list of potential participants provided by the study team to identify potential participants to be invited. The list is called `<GP Practice>_Potential_Participant_List`. Not all the potential participants on the list will be eligible for the SAFER Wearables Study. GP Practices identify which potential participants are to be invited by removing those potential participants who are ineligible for the study because they are:
 - no longer a patient at the practice, or
 - receiving palliative care, or
 - known to have died, or 
 - identified as living in non-private accommodation (including a nursing, care, or residential home).
+
 Only the remaining potential participants will be invited. The refined list will not be shared with the study team.
 
 ## Preparing a list of addresses
 
-Next, GP Practices insert the details of the potential participants to be invited into the template Docmail Address List (named _'GP Practice_Docmail_AddressList'_). This is done by replacing each of the entries for rows 3-44 in the following columns:
+Next, GP Practices insert the details of the potential participants to be invited into the template Docmail Address List (named `<GP Practice>_Docmail_AddressList`_). This is done by replacing each of the entries for rows 3-44 in the following columns:
 - First name
 - Surname _(NB: don't use 'Full name')_
 - Address 1
@@ -78,5 +79,3 @@ GP Practices prepare mailings on Docmail as follows:
     - _Despatch_: As soon as possible
 
 GP Practices should email the study team to notify them that a mailing has been set up (stating how many potential participants are being invited). The study team will then approve it.
-
-The study team are happy to help with any of the steps in this process.
