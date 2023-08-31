@@ -9,7 +9,7 @@ has_children: false
 # Inviting Potential Participants
 {: .no_toc }
 
-This page describes processes taken by GP Practices to invite potential participants.
+This page describes processes taken by GP Practices to invite potential participants. _The study team are happy to help with any of these steps._
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -22,7 +22,7 @@ This page describes processes taken by GP Practices to invite potential particip
 
 ## Preparation
 
-The following steps will be taken to prepare GP Practices to invite potential participants:
+The following steps are taken in preparation for GP Practices inviting potential participants:
 - **SIV:** GP Practices undergo a Site Initiation Visit (SIV).
 - **Docmail:** GP Practices are asked for a single contact who will be given access to Docmail.
 - **Headed paper:** GP Practices are asked whether they would like their headed paper used on the mailings. If so, they will be asked to send headed paper to the study team to include it in the Docmail mailing pack.
