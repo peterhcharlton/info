@@ -30,7 +30,9 @@ The following steps are taken in preparation for GP Practices inviting potential
 
 ## Identifying potential participants to be invited
 
-GP Practices use the list of potential participants provided by the study team to identify potential participants to be invited. The list is called `<GP Practice>_Potential_Participant_List`. Not all the potential participants on the list will be eligible for the SAFER Wearables Study. GP Practices identify which potential participants are to be invited by removing those potential participants who are ineligible for the study because they are:
+GP Practices use the list of potential participants provided by the study team to identify potential participants to be invited. The list is called `<GP Practice>_Potential_Participant_List`.
+
+Not all the potential participants on the list will be eligible for the SAFER Wearables Study. GP Practices identify which potential participants are to be invited by removing those potential participants who are ineligible for the study because they are:
 - no longer a patient at the practice, or
 - receiving palliative care, or
 - known to have died, or 
