@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.03 Recruitment - Informed Consent
+title: 2.04 Recruitment - Informed Consent
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false
