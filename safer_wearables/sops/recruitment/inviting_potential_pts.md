@@ -56,7 +56,9 @@ Next, GP Practices insert the details of the potential participants to be invite
 - Custom 4: _This contains the GP name. It should be adjusted as necessary._
 - Custom 5: _This contains each potential participant's Invite ID. It should not be edited._
 
-Note that there is a row already completed for a potential participant named 'Peter Charlton'. This should not be edited.
+Please note:
+- The template Docmail Address List contains enough rows for all of the potential participants. Any rows which are not required (because some potential participants are found to be ineligible) should be deleted.
+- There is a row already completed for a potential participant named 'Peter Charlton'. This should not be edited.
 
 ## Sending mailings on Docmail
 
