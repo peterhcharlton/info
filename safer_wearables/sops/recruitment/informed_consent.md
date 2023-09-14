@@ -24,7 +24,7 @@ This page describes processes for informed consent.
 
 ### Discussion about taking part
 
-_This is taken from Section 11.2 (Study Procedures > Informed Consent) of the Protocol._
+_This is taken from Section 11.2 (Study Procedures > Informed Consent) of the Protocol. Responses are recorded in the Qualtrics 'Informed Consent Call' survey._
 
 Potential participants who are interested in participating will call the study team (as indicated in the invitation letter). During the call, a study team member will:
 - Introduce themself (name and affliation)
