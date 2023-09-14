@@ -35,6 +35,9 @@ The following steps are taken with each GP Practice:
   - reply slip (`v.1.0_docmail`)
   - reply envelope (`v.1.0`)
 
+### Creating headed invitation letters
+If using headed paper for a GP Practice, then create a Practice-specific invitation letter, placing the usual invitation letter on the headed paper. In doing so, take care to ensure that the header is not obscured by the address label placed in the upper left corner by docmail.
+
 ### Creating list of potential participants
 
 Create an excel spreadsheet of mail data (based on the [template](https://www.cfhdocmail.com/live/ExampleDownload.aspx?Filename=LetterTemplate.doc) described [here](https://www.cfhdocmail.com/live/help.aspx)) (NB: there is a specific template named `Template_Docmail_AddressList`), and including the following fields:
