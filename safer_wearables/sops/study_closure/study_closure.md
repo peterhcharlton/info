@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6 Study Closure
+title: 7 Study Closure
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false
