@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /safer_projects/
