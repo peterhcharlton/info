@@ -19,41 +19,15 @@ This page provides information on data collected during the SAFER Programme.
 
 ---
 
-## Data Collection
-
-### Recording ECGs
-
-Participants of the SAFER programme are asked to use a handheld ECG device to record 30-second, single-lead ECGs at home. They record approximately 4 ECGs per day for approximately 3 weeks, providing around 84 ECGs per participant.
-
-_The handheld ECG device_
-
-The device being used is the [Zenicor-EKG](https://zenicor.com/zenicor-ekg/) device (see [here](https://zenicor.com/wp-content/uploads/2014/08/MG_1945_low-300x200.jpg) for a picture of the device). This device was previously used in the STROKESTOP studies.
-
-### Automated analysis of ECGs
-
-ECGs are analysed using [Cardiolund's ECG analysis algorithm](https://peterhcharlton.github.io/info/tools/reading/af_screening.html#cardiolunds-ecg-parser-algorithm). This algorithm applies the binary classifications (known as tags) to each ECG signal, which are descirbed [here](https://cardiolund.com/ecg-parser/).
-
-Selected tags are used to identify ECGs which exhibit signs of possible AF, and therefore warrant manual review.
-
-### Participant-level diagnoses
-
-Participants who have at least one ECG exhibiting signs of possible AF are sent for manual review by one or more reviewers (details of this process are provided [here](https://universityofcambridgecloud-my.sharepoint.com/:t:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_study_methods/Clinical%20review.md?csf=1&web=1&e=qCcgKp), and details of the tags used to identify signs of possible AF are provided [here](https://universityofcambridgecloud-my.sharepoint.com/:t:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_study_methods/Use%20of%20algorithm%20tags.md?csf=1&web=1&e=NcchiT)).
-
-Each participant is assigned a participant-level diagnosis.
-
-### ECG-level labels
-
-During the process of reviewing participants, cardiologists may label individual ECGs on an ad-hoc basis. Labels include: AF, non-AF, and poor quality.
-
 ## Data processing
 
 The SAFER data are extensively processed to produce a clean dataset for analysis. The variables available are listed [here](https://universityofcambridgecloud-my.sharepoint.com/:b:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_student_projects/Project_Resources/SAFER_variables.pdf?csf=1&web=1&e=0Lq9Vq).
 
-## Accessing the data
+## Data Access
 
 Users must sign a _Data Sharing Agreement_ to access the data, which is submitted for review by the SAFER Team. Please ask me for a copy of the _Data Sharing Agreement_.
 
-## Files
+## File Structure and Formatting
 
 ### Participant- and recording-level data
 

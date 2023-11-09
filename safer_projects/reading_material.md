@@ -21,9 +21,9 @@ This page provides a background reading material relating to our work on the SAF
 
 ## Initial Reading for SAFER Student Projects
 
-This page some recommended reading for projects within the SAFER Programme. Do be selective about which articles to read - there is certainly no need to read them all. In addition, be selective about which parts of the articles to read - for instance, simply reading the abstract may be sufficient in some cases.
+This page provides some recommended reading for projects within the SAFER Programme. Do be selective about which articles to read - there is certainly no need to read them all. In addition, be selective about which parts of the articles to read - for instance, simply reading the abstract may be sufficient in some cases.
 
-**PDFs** of documents which are not available online are provided [here](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_student_projects/Project_Resources/Reading_Materials). _NB: to open links on this page, right click and open in a new tab._
+**PDFs** of documents which are not available online are provided [here](https://universityofcambridgecloud-my.sharepoint.com/:f:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_student_projects/Project_Resources/Reading_Materials).
 
 ---
 
@@ -50,7 +50,7 @@ The following are recommended for initial reading on screening for AF:
 - **The ECG recording device:** Have a look at Zenicor's device [here](https://peterhcharlton.github.io/info/tools/reading/af_screening.html#zenicors-handheld-ecg-device) to get an idea of the device used in these studies.
 
 
-## Additional Topics
+## ECG Interpretation and Analysis
 
 Whilst the above topics are likely to be of some relevance, the following topics may or may not be relevant. Do be selective.
 
