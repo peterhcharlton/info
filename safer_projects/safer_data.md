@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3 SAFER Data
+title: 4 SAFER Data
 parent: SAFER Projects
 has_children: false
 ---
@@ -22,6 +22,16 @@ This page provides information on data collected during the SAFER Programme.
 ## Data processing
 
 The SAFER data are extensively processed to produce a clean dataset for analysis. The variables available are listed [here](https://universityofcambridgecloud-my.sharepoint.com/:b:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_student_projects/Project_Resources/SAFER_variables.pdf?csf=1&web=1&e=0Lq9Vq).
+
+## Data characteristics
+
+You may find it helpful to look at the following summary characteristics of the safer datasets:
+
+| Phase | Link |
+|---|---|
+| Feas1 | [Summary document](https://universityofcambridgecloud-my.sharepoint.com/:t:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_analyses/SAFER_dataset_characteristics/stats/feas1_dataset_chars.md?csf=1&web=1&e=NDZnPP) |
+| Feas2 | [Summary document](https://universityofcambridgecloud-my.sharepoint.com/:t:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_analyses/SAFER_dataset_characteristics/stats/feas2_dataset_chars.md?csf=1&web=1&e=teBccn) |
+| Trial | [Summary document](https://universityofcambridgecloud-my.sharepoint.com/:t:/r/personal/pc657_cam_ac_uk/Documents/SAFER_Engineering_Resources/SAFER_analyses/SAFER_dataset_characteristics/stats/trial_dataset_chars.md?csf=1&web=1&e=l1m6ep) |
 
 ## Data Access
 

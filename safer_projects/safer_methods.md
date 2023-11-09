@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4 SAFER Methods
+title: 3 SAFER Methods
 parent: SAFER Projects
 has_children: false
 ---
@@ -18,6 +18,10 @@ This page provides information on the methods used in the SAFER Studies and Tria
 {:toc}
 
 ---
+
+## Protocol
+
+The SAFER Pilot Trial Protocol is available [here](https://doi.org/10.1136/bmjopen-2022-065066). It provides a good overview of the methodology. The remainder of this page describes specific aspects in greater detail.
 
 ## Recording ECGs
 
