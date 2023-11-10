@@ -69,15 +69,16 @@ Whilst the above topics are likely to be of some relevance, the following topics
 - **ECG beat detection:** [This page][27] provides a list of open-source beat detectors, which may well be helpful if you intend to analyse the ECG signals yourself (rather than simply using the outputs of the Cardiolund algorithm).
 - **Heart rate variability analysis:** The following paper provides a useful introduction to heart rate variability (HRV) analysis: [An overview of heart rate variability metrics and norms][29], and [this paper][31] provides additional details.
 - **Details of ECG signal processing:** For a comprehensive overview of signal processing techniques used to predict AF from the ECG signal, see [this thesis](http://hdl.handle.net/10362/64177), focusing on Sections 5.2.2 and 5.2.3.
-- **ECG signal filtering:** [This book chapter][11] and [this one][12] are written by experts in the field.
 - **Noise in an ECG signal:** See the first part of [this article][13]
+- **ECG signal filtering:** [This book chapter][11] and [this one][12] are written by experts in the field. [This article][38] provides an introduction to empirical mode decomposition (EMD) and variations of EMD.
 - **Deep learning for the ECG:** [This][20] is a very well written paper on using deep learning with the ECG. See [this paper][19] which used deep learning to identify arrhythmias in the ECG. See [this paper][14] (which used normal 12-lead ECGs to predict which patients would experience AF). There are also several review papers on deep learning and the ECG - [this one][21] looked helpful at first glance, but do have a look around. Update: the toolbox described in [this paper][34] looks like it might be helpful, and [this paper][35] might be helpful for getting a general introduction to the topic.
 - **Identifying AF in ECGs:** See the Computing in Cardiology 2017 Challenge: see [here][15] and [here][16] for an introduction to the challenge, and [here][17] for papers describing code submitted to the challenge, much of which is openly available [here][18]. If you ever wish to use the data from this challenge, then do have a look at the [MATLAB script][26] for importing the data.
-- **ECG quality assessment:** Our work on ECG quality assessment is available [here][22] (and also [here][23], although this paper is narrower in scope). [This][24] is meant to be helpful, although I haven't read it for a while. Whilst [this paper][25] focuses on using multiple signals, rather than just a single-lead ECG, I do like the idea that you can assess signal quality by using multiple beat detector algorithms (see [here](https://peterhcharlton.github.io/info/algorithms/beat-detectors.html#electrocardiogram-ecg-beat-detectors) for example algorithms), and deeming data to be of high quality only if a 'strong' (i.e. highly accurate) and a 'weak' (i.e. less accurate) beat detector agree on where the heart beats are. Finally, [this article][30] describes a technique for identifying transient noise in ECG signals, designed and validated on STROKESTOP data.
+- **ECG quality assessment:** Our work on ECG quality assessment is available [here][22] (and also [here][23], although this paper is narrower in scope). [This][24] is meant to be helpful, although I haven't read it for a while. Whilst [this paper][25] focuses on using multiple signals, rather than just a single-lead ECG, I do like the idea that you can assess signal quality by using multiple beat detector algorithms, and deeming data to be of high quality only if a 'strong' (i.e. highly accurate) and a 'weak' (i.e. less accurate) beat detector agree on where the heart beats are.See [here][37] for example algorithms, and [here][36] for a publication on this topic). Finally, [this article][30] describes a technique for identifying transient noise in ECG signals, designed and validated on STROKESTOP data.
 
-### Machine Learning
+## Machine Learning in AF screening
 
 - **Potential applications of ML in AF screening:** See [this article][32].
+- **Using AI in AF screening:** See [this article][39].
 
 ## Additional Reading
 
@@ -118,3 +119,7 @@ Whilst the above topics are likely to be of some relevance, the following topics
 [33]: http://peterhcharlton.github.io/publication/prioritising_ecgs/
 [34]: https://doi.org/10.1088/1361-6579/ac9451
 [35]: https://doi.org/10.3390/s20040969
+[36]: https://doi.org/10.1109/ACCESS.2018.2860056
+[37]: https://doi.org/10.1101/2023.11.07.23298202
+[38]: https://doi.org/10.1016/j.bspc.2023.104612
+[39]: https://doi.org/10.1093/ehjqcco/qcab094
