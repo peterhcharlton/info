@@ -50,6 +50,11 @@ This page provides details of how devices are prepared to be sent to participant
 3. Unplug, put back in the wristband.
 4. Turn the device off, and it is ready to send.
 
+## PulseOn Arrythmia Monitor
+
+1. Charge the device via USB until it is fully charged (as indicated by the battery indicator being green).
+2. Follow the instructions in the README.md file provided by PulseOn.
+
 ## Withings Move-ECG
 
 1. Open HealthMate on a mobile phone.
