@@ -20,10 +20,22 @@ This page describes how to put together a Mail Pack to be sent to a participant.
 
 ---
 
-## Arranging delivery
+## Device setup
 
-- Telephone participant to arrange a time for delivery, which will require their email address and contact number for tracking, and also whether there is a safeplace or a dog at the address.
-- Order delivery for a small parcel, weight 2kg [here](https://send.royalmail.com/send/service?compensation=20&country=GBR&format=SmallParcel&weight=2000&weightUnit=G).
-- Choose the 'Royal Mail Tracked 48' option
-- Ensure that you select the 'bring a label' option
-- Choose a date and time for collection
+Ensure the devices have been setup as detailed in the [device setup SOP](./device_preparation). Currently, we are using the following three devices:
+- Bittium Faros 180
+- PulseOn OHR Tracker
+- PulseOn Arrythmia Monitor
+
+## Prepare mail pack
+
+Prepare a mail pack consisting of:
+- A cardboard box (currently using brown boxes measuring 240x240x40mm)
+- Foam inserts (currently using three pieces of foam: one at the bottom and top measuring 6 mm thick, and a middle layer measuring 25mm thick).
+- Bags: one for outward, and one for return (currently using polyethene measuring 350x405 mm). Both with return address labels.
+- Instruction leaflet
+- Questionnaire
+- Three wearable devices (already set up)
+- Charger for the PulseOn Arrythmia Monitor
+- Check that there is an electrode cable already in the Bittium Faros device
+- Electrodes in an envelope (8 electrodes)
