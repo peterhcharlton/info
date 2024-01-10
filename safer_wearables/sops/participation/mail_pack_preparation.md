@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3.02 Participation - Mail Pack Preparation new
+title: 3.02 Participation - Mail Pack Preparation
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false
