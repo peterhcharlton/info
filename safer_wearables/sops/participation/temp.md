@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3.08 Participation - temp
+title: 3.02 Participation - Mail Pack Preparation new
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false
@@ -9,7 +9,7 @@ has_children: false
 # Sending Mail Packs
 {: .no_toc }
 
-This page describes how to send mail packs.
+This page describes how to put together a Mail Pack to be sent to a participant.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
