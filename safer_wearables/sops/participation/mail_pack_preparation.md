@@ -6,7 +6,7 @@ grand_parent: SAFER Wearables SOPs
 has_children: false
 ---
 
-# Mail Package Preparation
+# Mail Pack Preparation
 {: .no_toc }
 
 This page describes how to put together a Mail Pack to be sent to a participant.
