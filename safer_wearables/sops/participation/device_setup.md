@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 3.01 Participation - Device Preparation
+title: 3.01 Participation - Device Setup
 parent: SOPs
 grand_parent: SAFER Wearables
 has_children: false
 ---
 
-# Device Preparation
+# Device Setup
 {: .no_toc }
 
-This page provides details of how devices are prepared to be sent to participants of the SAFER Wearables Study.
+This page provides details of how devices are setup ready to be sent to participants of the SAFER Wearables Study.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -19,6 +19,10 @@ This page provides details of how devices are prepared to be sent to participant
 {:toc}
 
 ---
+
+## Cleaning
+
+All devices should be cleaned using wipes.
 
 ## Bittium Faros 180
 
