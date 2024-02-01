@@ -60,7 +60,7 @@ The CRN contacts GP Practices, and then Expressions of Interest (EOIs) are passe
 
 ### Responding to EOIs
 
-Fill in the Practice-specific details in the PIC agreement (currently v.1.1), as detailed in the instruction pages (then deleting the instruction pages).
+Fill in the Practice address in the PIC agreement (currently v.1.4), then delete the instruction pages.
 
 Then send an initial response email to EOIs (based on template `GP_Practice_responding_to_EOI.emltpl`, including:
 - A thank you
@@ -86,6 +86,3 @@ Meet remotely with the GP Practice, using the `SAFER_Wearables_SIV.pptx` present
 - What GP Practices are asked to do (including that no health-related data will be returned to participants or practices)
 - Inclusion and exclusion criteria
 - Next steps: point of contact, PIC agreement, deciding on mutually convenient dates.
-
-### Approvals
-- Complete paperwork: PIC agreement

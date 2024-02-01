@@ -30,6 +30,8 @@ All devices should be cleaned using wipes.
 2. Open [Bittium Faros Manager](https://www.bittium.com/medical/support)
 3. Keep the device attached until it is fully charged (this could take 1-2 hours), as indicated by 100&#37; 'Battery Charge' in the Bittium Faros Manager software.
 4. In Bittium Faros Manager, make sure that the device is setup correctly:
+   - Check that the device name is 'SN_#######', where ####### is the device serial number.
+   - Check that the date and time are coorect and that the device time is set to synchronize with PC time.
    - _ECG/EKG_ set to 'On'
    - _Accelerometer_ set to 'Off'
    - _RR-interval_ set to 'Off'
@@ -49,15 +51,19 @@ All devices should be cleaned using wipes.
 
 ## PulseOn OHR Tracker
 
-1. Charge the device via USB until it is fully charged (as indicated by the battery indicator reaching the top of the outer rectangle in the battery logo).
-2. Sync the device with a mobile phone using the 'PulseOn Demo' application
+1. Sync the device with a mobile phone using the 'PulseOn Demo' application
+2. Charge the device via USB until it is fully charged (as indicated by the battery indicator reaching the top of the outer rectangle in the battery logo).
 3. Unplug, put back in the wristband.
-4. Turn the device off, and it is ready to send.
+4. Sync the device once more, and set the device mode (currently using 'Sampled mode') in the 'PulseOn Demo' application
+5. Turn the device off, and it is ready to send.
 
 ## PulseOn Arrythmia Monitor
 
 1. Charge the device via USB until it is fully charged (as indicated by the battery indicator being green).
-2. Follow the instructions in the README.md file provided by PulseOn.
+2. Follow the instructions in the README.md file provided by PulseOn, using:
+   - https://prod.pulseon-ecg.uk/
+   - device serial number "SN#####" as the first name and identifier, and "SETUPYYYYMMDD" as the last name.
+   - The following settings for the measurement session: time zone - "00:00 Europe/London"; (i) session type - "Screening (without gateway)"; (ii) session length - "1 weeks"; (iii) quiet time - "22:00-08:00"; (iv) timed measurements - "09:00", "12:00", "16:00", "20:00"; 
 
 ## Withings Move-ECG
 

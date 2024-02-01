@@ -31,19 +31,18 @@ Ensure the devices have been setup as detailed in the [Device Setup SOP](./devic
 
 Ensure that the following are printed:
 - 2 x return labels
-- Instruction leaflet
-- Questionnaire (including the participant ID)
+- Instruction leaflet: _page 6 needs to be in colour_
+- Questionnaire (including the participant ID): _the last page needs to be in colour_
 
 ## Prepare mail pack
 
 Prepare two bags each consisting of:
 - Bag: currently using polyethene bags measuring 350x405 mm
-- Return address label: a label on each bag stating "If undelivered please return to: SAFER Wearables Study; Strangeways Research Laboratory; 2 Worts Causeway; Cambridge; CB1 8RN".
-
+- Return address label: a label on each bag stating "If undelivered please return to: SAFER Wearables Study; Strangeways Research Laboratory; 2 Worts Causeway; Cambridge; CB1 8RN". Put the label on the left hand side of the back of the bag.
 
 Prepare a device box consisting of:
 - A cardboard box (currently using brown boxes measuring 240x240x40mm)
-- Foam inserts (currently using three pieces of foam: one at the bottom and top measuring 6 mm thick, and a middle layer measuring 25mm thick).
+- Foam inserts: _currently using two pieces of foam: one at the bottom measuring 6 mm thick, and a middle layer measuring 25mm thick. Each should be 235x235mm._
 - Three wearable devices (already set up)
 - Charger for the PulseOn Arrythmia Monitor
 - Check that there is an electrode cable already in the Bittium Faros device
@@ -52,7 +51,7 @@ Selotape the device box shut.
 Prepare a return envelope consisting of:
 - Questionnaire
 - Return bag (with return label)
-- A5 Envelope stating "To open when ready to return devices. Contains: (i) Questionnaire; (ii) Return bag (for the box to be put in)."
+- A5 Envelope stating "To open when ready to return devices. Contains: (i) Questionnaire; (ii) Return bag (for the box to be put in); (iii) Sticker to shut box with."
 Put the questionnaire and return bag in the envelope, and selotape it shut. Then selotape the return envelope to the device box.
 
 
