@@ -55,7 +55,7 @@ All devices should be cleaned using wipes.
 2. Charge the device via USB until it is fully charged (as indicated by the battery indicator reaching the top of the outer rectangle in the battery logo).
 3. Unplug, put back in the wristband.
 4. Sync the device once more, and set the device mode (currently using 'Sampled mode') in the 'PulseOn Demo' application
-5. Turn the device off, and it is ready to send.
+5. Turn the device off (by holding the button for 10 secs), and it is ready to send.
 
 ## PulseOn Arrythmia Monitor
 
