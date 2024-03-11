@@ -20,4 +20,10 @@ This page describes processes to undertake when receiving mail packs.
 
 ---
 
-...
+Follow these steps when receiving a mail pack in the post returned from a participant:
+
+## Identify the participant
+
+Identify the participant from:
+- The 'return address' shown on the mail label
+- The participant ID on the questionnaire 
