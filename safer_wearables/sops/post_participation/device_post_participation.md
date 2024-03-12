@@ -37,7 +37,7 @@ This page provides details of what to do when devices are returned to us from pa
 
 1. Remove device
 2. Clean device
-3. Sync device with mobile phone
+3. Sync device with mobile phone (to do so, delete the PulseOn OHR folder from the phone, and then sync)
 4. Check that data has been transferred from device to mobile phone
 5. Delete database from device
 6. Turn off device by holding down button for approx. 12 seconds (the power symbol displays after about 8 seconds, and you have to keep the button pressed until turned off).
