@@ -31,8 +31,8 @@ Ensure the devices have been setup as detailed in the [Device Setup SOP](./devic
 
 Ensure that the following are printed:
 - 2 x return labels
-- Instruction leaflet: _page 6 needs to be in colour_
-- Questionnaire (including the participant ID): _the last page needs to be in colour_
+- Instruction leaflet
+- Questionnaire (without participant ID): _the last page needs to be in colour_
 
 ## Prepare mail pack
 
@@ -46,14 +46,15 @@ Prepare a device box consisting of:
 - Three wearable devices (already set up)
 - Charger for the PulseOn Arrythmia Monitor
 - Check that there is an electrode cable already in the Bittium Faros device
-Selotape the device box shut.
 
 Prepare a return envelope consisting of:
-- Questionnaire
+- Questionnaire (with participant ID hand-written on it)
 - Return bag (with return label)
 - A5 Envelope stating "To open when ready to return devices. Contains: (i) Questionnaire; (ii) Return bag (for the box to be put in); (iii) Sticker to shut box with."
-Put the questionnaire and return bag in the envelope, and selotape it shut. Then selotape the return envelope to the device box.
 
+Fill out the 'Device pack preparation' qualtrics CRF.
+
+Put the questionnaire and return bag in the envelope, and selotape it shut. Then selotape the return envelope to the device box.
 
 Prepare a mail pack by taking the remaining bag and putting in it:
 - Device box
