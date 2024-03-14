@@ -22,6 +22,12 @@ This page describes processes to undertake when receiving mail packs.
 
 Follow these steps when receiving a mail pack in the post returned from a participant:
 
+## Open the package
+
+Open the bag and the box inside. Throw away any spare chest dots, and any non-confidential paper (e.g. envelopes without IDs, instruction leaflet).
+
+If there are any additional items in the box then please make sure they have a participant ID written on them, and store them for review.
+
 ## Fill out the device return receipt
 
 Open the 'Device return receipt' qualtrics questionnaire, and fill out the details, noting the following:
