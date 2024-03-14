@@ -22,12 +22,6 @@ This page describes processes to undertake when receiving mail packs.
 
 Follow these steps when receiving a mail pack in the post returned from a participant:
 
-## Identify the participant
-
-Open the package, and find out the participant's study ID from either:
-- The 'return address' shown on the mail label
-- The participant ID on the questionnaire
-
 ## Fill out the device return receipt
 
 Open the 'Device return receipt' qualtrics questionnaire, and fill out the details, noting the following:
