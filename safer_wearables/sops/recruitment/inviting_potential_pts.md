@@ -51,8 +51,8 @@ Next, GP Practices insert the details of the potential participants to be invite
 - Address 4
 - Address 5 _(NB: don't use 'Address 6')_
 - Custom 1: _This contains the mailing date. It should be adjusted as necessary._
-- Custom 2: _This contains the GP Practice name. It should be adjusted as necessary._
-- Custom 3: _This contains the GP Practice address (on one line, comma separated). It should be adjusted as necessary._
+- Custom 2: _(only used if headed paper is not supplied) This contains the GP Practice name. It should be adjusted as necessary._
+- Custom 3: _(only used if headed paper is not supplied) This contains the GP Practice address (on one line, comma separated). It should be adjusted as necessary._
 - Custom 4: _This contains the GP name. It should be adjusted as necessary._
 - Custom 5: _This contains each potential participant's Invite ID. It should not be edited._
 
@@ -71,7 +71,7 @@ GP Practices prepare mailings on Docmail as follows:
     - The delivery service is 'standard delivery'
   - Under 'Add documents':
     - Add a Mail pack from the library
-    - Select either `SAFER Wearables Mail Pack v.1.0`, or if using headed paper, then select `SAFER Wearables Mail Pack v.1.0 - <GP Practice Name>`.
+    - Select either `SAFER Wearables Mail Pack v.1.3`, or if using headed paper, then select `SAFER Wearables Mail Pack v.1.3 - <GP Practice Name>`.
     - This should result in five documents.
   - Under 'Add addresses':
     - Select 'Upload addresses'
