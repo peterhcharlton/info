@@ -64,7 +64,7 @@ All devices should be cleaned using wipes.
 1. Charge the device via USB until it is fully charged (as indicated by the battery indicator being green).
 2. Follow the instructions in the README.md file provided by PulseOn, using:
    - https://prod.pulseon-ecg.uk/
-   - device serial number "SN#####" as the first name and identifier, and "SETUPYYYYMMDD" as the last name.
+   - device serial number "SN#####" as the first name, "SETUPYYYYMMDD" as the last name, and "SN#####SETUPYYYYMMDD" as the identifier
    - The following settings for the measurement session: time zone - "00:00 Europe/London"; (i) session type - "Screening (without gateway)"; (ii) session length - "1 weeks"; (iii) quiet time - "22:00-08:00"; (iv) timed measurements - "09:00", "12:00", "16:00", "20:00"; 
 
 ## Withings Move-ECG
