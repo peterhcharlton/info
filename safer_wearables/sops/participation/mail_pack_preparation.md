@@ -52,6 +52,11 @@ Prepare a return envelope consisting of:
 - Return bag (with return label)
 - A5 Envelope stating "To open when ready to return devices. Contains: (i) Questionnaire; (ii) Return bag (for the box to be put in); (iii) Sticker to shut box with."
 
+Prepare a 'Chest dots' envelope by:
+- Inserting six electrodes into an envelope
+- Writing 'Chest dots' on the outside
+- Selotaping it shut
+
 Fill out the 'Device pack preparation' qualtrics CRF.
 
 Put the questionnaire and return bag in the envelope, and selotape it shut. Then selotape the return envelope to the device box.
