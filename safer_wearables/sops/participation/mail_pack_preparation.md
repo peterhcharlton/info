@@ -59,7 +59,7 @@ Prepare a 'Chest dots' envelope by:
 
 Fill out the 'Device pack preparation' qualtrics CRF.
 
-Put the questionnaire and return bag in the envelope, and selotape it shut. Then selotape the return envelope to the device box.
+Selotape the envelopes shut. Selotape the return envelope to the device box.
 
 Prepare a mail pack by taking the remaining bag and putting in it:
 - Device box
