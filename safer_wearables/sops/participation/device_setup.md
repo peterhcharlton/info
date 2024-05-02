@@ -44,7 +44,7 @@ All devices should be cleaned using wipes.
 5. In addition, make the following manual adjustments to the `.\SYS\FAROS.CFG` file (which is a text file):
    - _bat_alarm_beep_ set to '0'
    - Save the file after making these adjustments
-6. Check that the device doesn't have any data stored on it (by using Windows File Explorer to inspect the `.\DATA` folder on the device. Delete any files in this folder (apart from `BUFFER`). This should leave approximately 89&#37; 'Free Memory', as stated in Bittium Faros Manager.
+6. Check that the device doesn't have any data stored on it (by using Windows File Explorer to inspect the `.\DATA` folder on the device. Delete any files in this folder. This should leave approximately 93&#37; 'Free Memory', as stated in Bittium Faros Manager.
 7. Use Bittium Faros Manager to eject the device.
 8. Unplug.
 9. Check that the device is turned off (there are no lights showing, even intermittently, on the device).
