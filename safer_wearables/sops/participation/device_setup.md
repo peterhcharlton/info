@@ -33,10 +33,10 @@ All devices should be cleaned using wipes.
    - Check that the device name is 'SN_#######', where ####### is the device serial number.
    - Check that the date and time are coorect and that the device time is set to synchronize with PC time.
    - _ECG/EKG_ set to 'On'
-   - _Accelerometer_ set to 'Off'
+   - _Accelerometer_ set to 'On'
    - _RR-interval_ set to 'Off'
    - _Number of ECG channels_ set to '1' (there isn't another option)
-   - _ECG Sampling Frequency_ set to '125 Hz'
+   - _ECG Sampling Frequency_ set to '500 Hz'
    - _Autostart on Skin Contact_ set to 'On' [TBC].
    - Press _SAVE_ to store these settings.
 5. In addition, make the following manual adjustments to the `.\SYS\FAROS.CFG` file (which is a text file):
