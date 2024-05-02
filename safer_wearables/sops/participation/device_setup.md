@@ -37,6 +37,8 @@ All devices should be cleaned using wipes.
    - _RR-interval_ set to 'Off'
    - _Number of ECG channels_ set to '1' (there isn't another option)
    - _ECG Sampling Frequency_ set to '500 Hz'
+   - _Accelerometer Sampling Frequency_ set to '25'.
+   - _Accelerometer Dynamic Range_ set to '4g'.
    - _Autostart on Skin Contact_ set to 'On' [TBC].
    - Press _SAVE_ to store these settings.
 5. In addition, make the following manual adjustments to the `.\SYS\FAROS.CFG` file (which is a text file):
