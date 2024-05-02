@@ -38,7 +38,7 @@ Ensure that the following are printed:
 
 Prepare two bags each consisting of:
 - Bag: currently using polyethene bags measuring 350x405 mm
-- Return address label: a label on each bag stating "If undelivered please return to: SAFER Wearables Study; Strangeways Research Laboratory; 2 Worts Causeway; Cambridge; CB1 8RN". Put the label on the left hand side of the back of the bag.
+- Return address label: a label on each bag stating "If undelivered please return to: SAFER Wearables Study; Strangeways Research Laboratory; 2 Worts Causeway; Cambridge; CB1 8RN. Tel: 01223 331 then 063". Put the label on the left hand side of the back of the bag.
 
 Prepare a device box consisting of:
 - A cardboard box (currently using brown boxes measuring 240x240x40mm)
