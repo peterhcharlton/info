@@ -33,7 +33,7 @@ The Programme consists of three phases:
 
 ### The Screening Process
 
-The three main steps of the screening process which I?ll refer to are:
+The three main steps of the screening process which I'll refer to are:
 
 - **ECGs recorded at home:** Firstly, participants are sent a handheld device which takes 30-second ECG recordings between two thumbs. Participants are asked to record an ECG 4 times per day, for 3 weeks, producing approximately 84 ECGs per participant.
 - **Automated analysis:** Secondly, the ECG recordings are automatically analysed to identify any that may contain AF.
@@ -41,7 +41,7 @@ The three main steps of the screening process which I?ll refer to are:
 
 ## Previous work
 
-An overview of the work I have been involved in so far is provided [here](https://peterhcharlton.github.io/project/safer-wearables/), including publications arising from previous student projects (under the 'Publications' heading lower on the page). A more comprehensive list of publications arising from SAFER is provided [here](https://www.safer.phpc.cam.ac.uk/trial-news/outputs/publications/).
+An overview of the work I have been involved in so far is provided [here](https://peterhcharlton.github.io/project/screening-af/), including publications arising from previous student projects (under the 'Publications' heading lower on the page). A more comprehensive list of publications arising from SAFER is provided [here](https://www.safer.phpc.cam.ac.uk/trial-news/outputs/publications/).
 
 ## Project Guidelines
 

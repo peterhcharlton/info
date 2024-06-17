@@ -19,7 +19,8 @@ grand_parent: Research tools
 
 ## Atrial Fibrillation
 
-- [2020 AF Guidelines](https://doi.org/10.1093/eurheartj/ehaa612): includes the 'diagnostic criteria for atrial fibrillation' in Section 3.2.
+- [2020 ESC Guidelines](https://doi.org/10.1093/eurheartj/ehaa612): includes the 'diagnostic criteria for atrial fibrillation' in Section 3.2.
+- [2021 NICE Guideline](https://www.nice.org.uk/guidance/ng196): includes the [recommendation](https://www.nice.org.uk/guidance/ng196/chapter/Rationale-and-impact#detection-and-diagnosis-2) that '12?lead ECG should be used as the test to confirm atrial fibrillation, to prevent the use of less accurate ECG devices, such as mobile and lead?I ECG devices'.
 - [Responsible for a fivefold increase in stroke risk](https://doi.org/0.1161/01.str.22.8.983)
 
 ## Screening Studies
@@ -61,15 +62,18 @@ Websites:
 - [SAFER Trial registration](https://www.isrctn.com/ISRCTN72104369)
 
 Protocols:
-- [SAFER Trial Pilot Study](https://doi.org/10.1136/bmjopen-2022-065066)
+- [SAFER Trial Pilot](https://doi.org/10.1136/bmjopen-2022-065066)
+- [SAFER Trial](https://doi.org/10.1136/bmjopen-2023-082047)
 
 Papers:
+- [Feasibility Study Results](https://doi.org/10.1093/europace/euae056)
 - [Embedding qualitative research in trials](https://doi.org/10.1186/s13063-022-06308-7)
 - [Why do people take part in atrial fibrillation screening?](https://doi.org/10.1136/bmjopen-2021-051703)
 
 Engineering Analyses:
 - [Algorithm tags and number of reviewers](https://doi.org/10.3390/ecsa-7-08195): initial results
 - [Prioritising ECGs for manual review](https://doi.org/10.1109/EMBC48229.2022.9871092)
+- [Characterising RR-intervals](https://doi.org/10.22489/CinC.2023.270)
 
 ### LOOP Study
 
@@ -98,8 +102,12 @@ Results:
 
 ### Apple Heart Study
 
-Study Design:
-- [Publication](https://doi.org/10.1016/j.ahj.2018.09.002)
+- [Study Design](https://doi.org/10.1016/j.ahj.2018.09.002)
+- [Results](https://doi.org/10.1056/NEJMoa1901183)
+
+### FitBit Heart Study
+
+- [Results](https://doi.org/10.1161/CIRCULATIONAHA.122.060291)
 
 ## Devices
 
@@ -141,3 +149,6 @@ Study Design:
 - [Population-based screening for atrial fibrillation](https://doi.org/10.1161/CIRCRESAHA.120.316341) - see Table 4 for a list of ongoing studies.
 - [Screening for atrial fibrillation: A call for evidence](https://doi.org/10.1093/eurheartj/ehz834)
 - [Screening for atrial fibrillation](https://doi.org/10.1161/CIRCULATIONAHA.116.026693)
+
+### Interpreting single-lead ECGs for AF diagnosis
+- [Data from the VITAL-AF Trial](https://doi.org/10.1016/j.ahj.2023.07.003)
