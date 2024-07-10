@@ -27,9 +27,10 @@ All devices should be cleaned using wipes.
 ## Bittium Faros 180
 
 1. Connect the device to a Windows PC via USB.
-2. Open [Bittium Faros Manager](https://www.bittium.com/medical/support)
-3. Keep the device attached until it is fully charged (this could take 1-2 hours), as indicated by 100&#37; 'Battery Charge' in the Bittium Faros Manager software.
-4. In Bittium Faros Manager, make sure that the device is setup correctly:
+2. Delete the 'DATA' folder from the device.
+3. Open [Bittium Faros Manager](https://www.bittium.com/medical/support)
+4. Keep the device attached until it is fully charged (this could take 1-2 hours), as indicated by 100&#37; 'Battery Charge' in the Bittium Faros Manager software.
+5. In Bittium Faros Manager, make sure that the device is setup correctly:
    - Check that the device name is 'SN_#######', where ####### is the device serial number.
    - Check that the date and time are coorect and that the device time is set to synchronize with PC time.
    - _ECG/EKG_ set to 'On'
@@ -41,14 +42,14 @@ All devices should be cleaned using wipes.
    - _Accelerometer Dynamic Range_ set to '4g'.
    - _Autostart on Skin Contact_ set to 'On' [TBC].
    - Press _SAVE_ to store these settings.
-5. In addition, make the following manual adjustments to the `.\SYS\FAROS.CFG` file (which is a text file):
+6. In addition, make the following manual adjustments to the `.\SYS\FAROS.CFG` file (which is a text file):
    - _bat_alarm_beep_ set to '0'
    - Save the file after making these adjustments
-6. Check that the device doesn't have any data stored on it (by using Windows File Explorer to inspect the `.\DATA` folder on the device. Delete any files in this folder. This should leave approximately 93&#37; 'Free Memory', as stated in Bittium Faros Manager.
-7. Use Bittium Faros Manager to eject the device.
-8. Unplug.
-9. Check that the device is turned off (there are no lights showing, even intermittently, on the device).
-10. Insert the electrode set into the USB port of the device.
+7. Check that the device doesn't have any data stored on it (by using Windows File Explorer to inspect the `.\DATA` folder on the device. Delete any files in this folder. This should leave approximately 93&#37; 'Free Memory', as stated in Bittium Faros Manager.
+8. Use Bittium Faros Manager to eject the device.
+9. Unplug.
+10. Check that the device is turned off (there are no lights showing, even intermittently, on the device).
+11. Insert the electrode set into the USB port of the device.
 
 
 ## PulseOn OHR Tracker
