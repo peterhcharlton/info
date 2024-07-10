@@ -59,7 +59,7 @@ All devices should be cleaned using wipes.
 4. Unplug, put back in the wristband.
 5. Close the 'PulseOn Demo' application.
 6. Sync the device once more
-7. Set the device mode (currently using 'Sampled mode') in the 'PulseOn Demo' application
+7. Set the device mode (used 'Sampled mode' 'HR' until 09-July-2024, now using 'Continuous mode', 'HR+RAW' from 10-July-2024 onwards) in the 'PulseOn Demo' application
 8. Select 'disconnect' in the 'PulseOn Demo' application.
 7. Turn the device off (by holding the button for 10 secs), and it is ready to send.
 
