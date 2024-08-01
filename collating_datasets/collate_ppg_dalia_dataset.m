@@ -21,13 +21,13 @@ function collate_ppg_dalia_dataset
 %
 %  Further information: 
 %
-%   https://peterhcharlton.github.io/resources/datasets
+%   https://peterhcharlton.github.io/info/datasets
 %
 %  Licence:
 %       Available under the MIT License - please see the accompanying
 %       file named "MIT_LICENSE.txt"
 %
-% Author: Peter H. Charlton, May 2021.
+% Author: Peter H. Charlton.
 
 fprintf('\n ~~~ Collating PPG DaLiA dataset ~~~')
 
@@ -89,8 +89,14 @@ for subj_no = 1:length(up.subjs)
     master_data(subj_no).ref.ind.fs = up.fs.resp;
     
     % - Import wrist acc
-    master_data(subj_no).acc_w.v = pickle_data.signal.wrist.ACC;
-    master_data(subj_no).acc_w.fs = up.fs.acc_w;
+    %    - extract original data
+    temp = pickle_data.signal.wrist.ACC;
+    %    - convert to milligravitational units (original data range between -2 and +2, where p.17 of the Empatica E4 manual at https://empatica.app.box.com/v/E4-User-Manual states that the default range is +/- 2g.
+    temp = temp.*1000;
+    %    - convert to vector magnitudes
+    master_data(subj_no).acc_ppg_site.v = sqrt(temp(:,1).^2 + temp(:,2).^2 + temp(:,3).^2);
+    %    - add sampling freq
+    master_data(subj_no).acc_ppg_site.fs = up.fs.acc_w;
     
     % - Import wrist EDA
     master_data(subj_no).eda_w.v = pickle_data.signal.wrist.EDA;
@@ -130,12 +136,16 @@ for subj_no = 1:length(up.subjs)
 end
 clear subj_no
 
+
 % split data into different activities
 fprintf('\n - Splitting data into different activities')
 acts.num = master_data(1).ref.activity.key.num;
 acts.txt = master_data(1).ref.activity.key.txt;
+% Add in "all activities"
+acts.num(end+1) = acts.num(end)+1;
+acts.txt{end+1} = 'all_activities';
 % - cycle through activities
-for act_no = 1 : length(acts.txt)
+for act_no = length(acts.txt) %1 : length(acts.txt)
     curr_act_no = acts.num(act_no);
     curr_act_txt = acts.txt{act_no};
     
@@ -153,10 +163,15 @@ for act_no = 1 : length(acts.txt)
         
         
         % identify periods of this activity
-        periods.deb = find(data(subj_no).ref.activity.v(2:end)==curr_act_no & ...
-            data(subj_no).ref.activity.v(1:end-1)~=curr_act_no);
-        periods.fin = find(data(subj_no).ref.activity.v(1:end-1)==curr_act_no & ...
-            data(subj_no).ref.activity.v(2:end)~=curr_act_no);
+        if strcmp(curr_act_txt, 'all_activities')
+            periods.deb = find(data(subj_no).ref.activity.v~=0, 1, 'first');
+            periods.fin = find(data(subj_no).ref.activity.v~=0, 1, 'last');
+        else
+            periods.deb = find(data(subj_no).ref.activity.v(2:end)==curr_act_no & ...
+                data(subj_no).ref.activity.v(1:end-1)~=curr_act_no);
+            periods.fin = find(data(subj_no).ref.activity.v(1:end-1)==curr_act_no & ...
+                data(subj_no).ref.activity.v(2:end)~=curr_act_no);
+        end
         % check there is at least one period of this activity, otherwise skip
         if isempty(periods.deb)
             fprintf('\n      - No %s data found for subj %s', curr_act_txt, data(subj_no).fix.subj_name);
@@ -176,13 +191,13 @@ for act_no = 1 : length(acts.txt)
         clear periods
         
         % - go through signals
-        sigs = {'ppg', 'ecg', 'ref.ind', 'acc_w', 'eda_w', 'temp_w'};
+        sigs = {'ppg', 'ecg', 'ref.ind', 'acc_ppg_site', 'eda_w', 'temp_w'};
         for sig_no = 1 : length(sigs)
             curr_sig_nom = sigs{sig_no};
             eval(['curr_sig_data = data(subj_no).' curr_sig_nom ';']);
             t = [0:length(curr_sig_data.v)-1]./curr_sig_data.fs;
             rel_t = t>= t_deb & t <= t_fin;
-            curr_sig_data.v = curr_sig_data.v(rel_t);
+            curr_sig_data.v = curr_sig_data.v(rel_t,:);
             eval(['data(subj_no).' curr_sig_nom ' = curr_sig_data;']);
             
             if strcmp(curr_sig_nom, 'ecg')
