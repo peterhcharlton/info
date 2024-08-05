@@ -11,7 +11,7 @@ function collate_wesad_dataset
 %  Outputs:
 %
 %    files    -  a MATLAB file for each activity in the protocol (at baseline
-%                and during amusement, stress and meditation)
+%                and during amusement, stress and meditation), and for all activities.
 %
 %  Preparation:
 %
@@ -20,13 +20,13 @@ function collate_wesad_dataset
 %
 %  Further information: 
 %
-%   https://peterhcharlton.github.io/resources/datasets
+%   https://peterhcharlton.github.io/info/datasets
 %
 %  Licence:
 %       Available under the MIT License - please see the accompanying
 %       file named "MIT_LICENSE.txt"
 %
-% Author: Peter H. Charlton, May 2021.
+% Author: Peter H. Charlton.
 
 fprintf('\n ~~~ Collating WESAD dataset ~~~')
 
@@ -46,7 +46,7 @@ up.paths.root_folder = '/Users/petercharlton/Documents/Data/WESAD/raw_data/';
 up.paths.save_folder = '/Users/petercharlton/Documents/Data/WESAD/conv_data/';
 
 % Specify the subject numbers
-up.subjs = [2:11,13:17]; % there are 15 subjects in the PPG Dalia dataset, numbered as stated
+up.subjs = [2:11,13:17]; % there are 15 subjects in the WESAD dataset, numbered as stated
 
 % Specify sampling frequencies (obtained from the 'PPG_FieldStudy_readme.pdf' document)
 up.fs.ppg = 64; % in Hz
@@ -86,8 +86,15 @@ for subj_no = 1:length(up.subjs)
     master_data(subj_no).ref.ind.fs = up.fs.resp;
     
     % - Import wrist acc
-    master_data(subj_no).acc_w.v = pickle_data.signal.wrist.ACC;
-    master_data(subj_no).acc_w.fs = up.fs.acc_w;
+    %    - extract original data
+    temp = pickle_data.signal.wrist.ACC;
+    %    - convert to milligravitational units (original data range between -128 and +127, where p.17 of the Empatica E4 manual at https://empatica.app.box.com/v/E4-User-Manual states that the default range is +/- 2g.
+    temp = temp*(4/256);
+    temp = temp.*1000;
+    %    - convert to vector magnitudes
+    master_data(subj_no).acc_ppg_site.v = sqrt(temp(:,1).^2 + temp(:,2).^2 + temp(:,3).^2);
+    %    - add sampling freq
+    master_data(subj_no).acc_ppg_site.fs = up.fs.acc_w;
     
     % - Import wrist EDA
     master_data(subj_no).eda_w.v = pickle_data.signal.wrist.EDA;
@@ -123,6 +130,9 @@ clear subj_no
 fprintf('\n - Splitting data into different activities')
 acts.num = master_data(1).ref.activity.key.num;
 acts.txt = master_data(1).ref.activity.key.txt;
+% Add in "all activities"
+acts.num(end+1) = acts.num(end)+1;
+acts.txt{end+1} = 'all_activities';
 % - cycle through activities
 for act_no = 1 : length(acts.txt)
     curr_act_no = acts.num(act_no);
@@ -141,10 +151,15 @@ for act_no = 1 : length(acts.txt)
     for subj_no = 1 : length(data)
         
         % identify periods of this activity
-        periods.deb = find(data(subj_no).ref.activity.v(2:end)==curr_act_no & ...
-            data(subj_no).ref.activity.v(1:end-1)~=curr_act_no);
-        periods.fin = find(data(subj_no).ref.activity.v(1:end-1)==curr_act_no & ...
-            data(subj_no).ref.activity.v(2:end)~=curr_act_no);
+        if strcmp(curr_act_txt, 'all_activities')
+            periods.deb = find(data(subj_no).ref.activity.v~=0, 1, 'first');
+            periods.fin = find(data(subj_no).ref.activity.v~=0, 1, 'last');
+        else
+            periods.deb = find(data(subj_no).ref.activity.v(2:end)==curr_act_no & ...
+                data(subj_no).ref.activity.v(1:end-1)~=curr_act_no);
+            periods.fin = find(data(subj_no).ref.activity.v(1:end-1)==curr_act_no & ...
+                data(subj_no).ref.activity.v(2:end)~=curr_act_no);
+        end
         % check there is at least one period of this activity, otherwise skip
         if isempty(periods.deb)
             fprintf('\n      - No %s data found for subj %s', curr_act_txt, data(subj_no).fix.subj_name);
@@ -161,7 +176,7 @@ for act_no = 1 : length(acts.txt)
         t_fin = periods.fin(1)/data(subj_no).ref.activity.fs;
         
         % - go through signals
-        sigs = {'ppg', 'ecg', 'ref.ind', 'acc_w', 'eda_w', 'temp_w'};
+        sigs = {'ppg', 'ecg', 'ref.ind', 'acc_ppg_site', 'eda_w', 'temp_w'};
         for sig_no = 1 : length(sigs)
             curr_sig_nom = sigs{sig_no};
             eval(['curr_sig_data = data(subj_no).' curr_sig_nom ';']);
@@ -187,7 +202,7 @@ for act_no = 1 : length(acts.txt)
     
     % save data for this activity
     fprintf('\n   - Saving data for %s', curr_act_txt)
-    save([up.paths.save_folder, 'ppg_dalia_', strrep(curr_act_txt, ' ', '_'), '_data'], 'data', 'source')
+    save([up.paths.save_folder, 'wesad_', strrep(curr_act_txt, ' ', '_'), '_data'], 'data', 'source')
     clear data
     
 end
