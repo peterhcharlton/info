@@ -145,7 +145,7 @@ acts.txt = master_data(1).ref.activity.key.txt;
 acts.num(end+1) = acts.num(end)+1;
 acts.txt{end+1} = 'all_activities';
 % - cycle through activities
-for act_no = length(acts.txt) %1 : length(acts.txt)
+for act_no = 1 : length(acts.txt)
     curr_act_no = acts.num(act_no);
     curr_act_txt = acts.txt{act_no};
     
